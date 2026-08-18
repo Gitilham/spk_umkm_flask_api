@@ -1,0 +1,6 @@
+lightgbm
+pandas
+scikit-learn
+joblib
+numpy
+openai

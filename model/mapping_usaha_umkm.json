@@ -1,0 +1,402 @@
+[
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Warung makan"
+  },
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Jualan gorengan"
+  },
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Kedai kopi"
+  },
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Minuman kekinian"
+  },
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Bakery \/ kue"
+  },
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Catering"
+  },
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Nasi kuning"
+  },
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Nasi uduk"
+  },
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Usaha jus \/ es buah"
+  },
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Angkringan"
+  },
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Makanan cepat saji"
+  },
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Makanan tradisional"
+  },
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Street food"
+  },
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Frozen food rumahan"
+  },
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Dessert box"
+  },
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Usaha catering harian"
+  },
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Jajanan pasar"
+  },
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Usaha martabak"
+  },
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Usaha mie ayam"
+  },
+  {
+    "Kategori":"Kuliner",
+    "Jenis_Usaha":"Usaha bakso"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Toko sembako"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Toko kelontong"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Reseller online"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Dropshipper"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Toko pakaian"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Toko alat tulis"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Toko kosmetik"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Toko elektronik kecil"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Toko aksesoris"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Toko sepatu"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Toko tas"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Toko perlengkapan bayi"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Toko buku"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Toko mainan anak"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Toko bahan bangunan kecil"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Toko sparepart motor"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Toko handphone"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Toko herbal"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Toko peralatan rumah tangga"
+  },
+  {
+    "Kategori":"Perdagangan",
+    "Jenis_Usaha":"Toko online marketplace"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Laundry"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Servis HP"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Jahit"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Cuci motor"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Cuci mobil"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Fotokopi \/ print"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Les privat"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Jasa desain grafis"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Jasa pengetikan"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Jasa editing video"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Jasa fotografi"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Jasa kebersihan rumah"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Jasa service AC"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Jasa salon"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Jasa makeup artist"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Jasa rental kendaraan"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Jasa tour guide"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Jasa pengiriman barang"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Jasa perbaikan elektronik"
+  },
+  {
+    "Kategori":"Jasa",
+    "Jenis_Usaha":"Jasa tukang bangunan"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Keripik \/ makanan ringan"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Kerajinan tangan"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Sabun \/ kosmetik"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Produk olahan makanan"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Konveksi rumahan"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Souvenir"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Anyaman"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Olahan hasil laut"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Produksi roti"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Produksi kue kering"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Produksi minuman herbal"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Produksi kerupuk"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Produksi tempe"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Produksi tahu"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Produksi frozen food"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Produksi abon"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Produksi sambal"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Produksi pakaian"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Produksi tas handmade"
+  },
+  {
+    "Kategori":"Produksi",
+    "Jenis_Usaha":"Produksi lilin aromaterapi"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Budidaya sayur"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Tanaman hias"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Ternak ayam"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Ternak ikan"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Ternak kambing"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Hidroponik"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Perkebunan kecil"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Budidaya cabai"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Budidaya jamur"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Budidaya buah"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Peternakan bebek"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Peternakan sapi"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Budidaya lele"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Budidaya nila"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Pertanian organik"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Budidaya tanaman obat"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Budidaya bunga"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Perkebunan kopi"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Perkebunan kelapa"
+  },
+  {
+    "Kategori":"Pertanian\/Peternakan",
+    "Jenis_Usaha":"Perkebunan pisang"
+  }
+]
