@@ -1,6 +1,8 @@
 {
-  "model_name": "LightGBM UMKM Recommendation",
-  "problem_type": "multiclass_classification",
+  "version": "v4.3-final",
+  "random_state": 42,
+  "dataset_seed": 20260825,
+  "final_locked": true,
   "feature_cols": [
     "Modal",
     "Potensi_Pasar",
@@ -8,13 +10,19 @@
     "Persaingan",
     "Tren_Usaha"
   ],
-  "target_col": "Jenis_Usaha",
   "category_map": {
     "0": "Kuliner",
     "1": "Perdagangan",
     "2": "Jasa",
     "3": "Produksi",
     "4": "Pertanian/Peternakan"
+  },
+  "target_to_id": {
+    "Kuliner": 0,
+    "Perdagangan": 1,
+    "Jasa": 2,
+    "Produksi": 3,
+    "Pertanian/Peternakan": 4
   },
   "input_maps": {
     "Potensi_Pasar": {
@@ -33,15 +41,19 @@
       "3": "Tinggi"
     },
     "Tren_Usaha": {
-      "1": "Menurun",
+      "1": "Kurang Stabil",
       "2": "Stabil",
-      "3": "Meningkat"
+      "3": "Sangat Stabil"
     }
   },
-  "dataset": "dataset_umkm_1000_final_v2.csv",
-  "total_data": 1000,
-  "num_classes": 5,
-  "best_iteration": 74,
-  "mapping_top_n_default": 3,
-  "note": "Model digunakan untuk rekomendasi kategori jenis usaha UMKM berdasarkan modal, potensi pasar, lokasi, persaingan, dan tren usaha. Alasan penjelasan dibuat oleh AI berdasarkan hasil model, bukan mengganti prediksi model."
+  "dataset": {
+    "total": 2000,
+    "training": 1600,
+    "validation": 200,
+    "testing": 200,
+    "scenarios_per_business": 20,
+    "noise_rate": 0.05
+  },
+  "selected_model": "C_conservative",
+  "best_iteration": 177
 }
