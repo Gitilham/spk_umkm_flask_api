@@ -1,5 +1,7 @@
 import os
 import json
+import re
+import hmac
 from pathlib import Path
 
 import joblib
@@ -8,6 +10,8 @@ import pandas as pd
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from dotenv import load_dotenv
+
+from training_service import TrainingService
 
 try:
     from openai import OpenAI
@@ -68,11 +72,14 @@ INPUT_MAPS = {
         "3": "Tinggi"
     },
     "Tren_Usaha": {
-        "1": "Menurun",
+        "1": "Kurang Stabil",
         "2": "Stabil",
-        "3": "Meningkat"
+        "3": "Sangat Stabil"
     }
 }
+
+
+training_service = TrainingService(BASE_DIR, MODEL_DIR)
 
 
 def load_artifacts():
@@ -138,7 +145,7 @@ def buat_catatan(modal, tren_usaha, confidence):
 
     if tren_usaha == 1:
         catatan.append(
-            "Tren usaha sedang menurun, sehingga perlu kehati-hatian dalam memilih produk, harga, dan strategi pemasaran."
+            "Kondisi tren usaha tergolong kurang stabil, sehingga perlu kehati-hatian dalam memilih produk, harga, dan strategi pemasaran."
         )
 
     if confidence < 0.60:
@@ -338,13 +345,154 @@ def predict():
         }
     }
 
-    hasil_model["hasil_rekomendasi"]["alasan_ai"] = buat_alasan_ai(hasil_model)
+    if bool(data.get("include_ai_explanation", False)):
+        hasil_model["hasil_rekomendasi"]["alasan_ai"] = buat_alasan_ai(hasil_model)
+    else:
+        hasil_model["hasil_rekomendasi"]["alasan_ai"] = None
 
     return jsonify({
         "status": True,
         "message": "Prediksi berhasil",
         "data": hasil_model
     })
+
+
+def training_authorized():
+    """
+    Jika TRAINING_API_TOKEN diisi di .env Flask, endpoint training wajib
+    menerima header X-Training-Token dengan nilai yang sama. Jika token
+    dibiarkan kosong, endpoint tetap dapat dipakai untuk lingkungan lokal.
+    """
+    configured = os.getenv("TRAINING_API_TOKEN", "").strip()
+    if not configured:
+        return True
+
+    supplied = request.headers.get("X-Training-Token", "").strip()
+    return bool(supplied) and hmac.compare_digest(configured, supplied)
+
+
+def training_unauthorized_response():
+    return jsonify({
+        "status": False,
+        "message": "Akses endpoint training ditolak. Token training tidak valid."
+    }), 401
+
+
+@app.route("/training/validate", methods=["POST"])
+def training_validate():
+    if not training_authorized():
+        return training_unauthorized_response()
+
+    uploaded = request.files.get("dataset")
+    if uploaded is None or not uploaded.filename:
+        return jsonify({
+            "status": False,
+            "message": "File dataset CSV wajib dikirim pada field 'dataset'."
+        }), 400
+
+    if not uploaded.filename.lower().endswith(".csv"):
+        return jsonify({
+            "status": False,
+            "message": "Dataset wajib menggunakan format .csv."
+        }), 400
+
+    try:
+        df = training_service.read_csv(uploaded.stream)
+        _, summary = training_service.validate_dataframe(df)
+        return jsonify({
+            "status": True,
+            "message": "Dataset valid dan siap digunakan untuk training.",
+            "data": summary
+        })
+    except Exception as exc:
+        return jsonify({
+            "status": False,
+            "message": str(exc)
+        }), 400
+
+
+@app.route("/training/train", methods=["POST"])
+def training_train():
+    if not training_authorized():
+        return training_unauthorized_response()
+
+    uploaded = request.files.get("dataset")
+    if uploaded is None or not uploaded.filename:
+        return jsonify({
+            "status": False,
+            "message": "File dataset CSV wajib dikirim pada field 'dataset'."
+        }), 400
+
+    if not uploaded.filename.lower().endswith(".csv"):
+        return jsonify({
+            "status": False,
+            "message": "Dataset wajib menggunakan format .csv."
+        }), 400
+
+    notes = (request.form.get("notes") or "").strip()
+
+    try:
+        df = training_service.read_csv(uploaded.stream)
+        result = training_service.train_candidate(
+            df=df,
+            dataset_name=uploaded.filename,
+            notes=notes,
+        )
+        return jsonify({
+            "status": True,
+            "message": result["message"],
+            "data": result
+        })
+    except Exception as exc:
+        return jsonify({
+            "status": False,
+            "message": str(exc)
+        }), 400
+
+
+@app.route("/training/models", methods=["GET"])
+def training_models():
+    if not training_authorized():
+        return training_unauthorized_response()
+
+    try:
+        return jsonify({
+            "status": True,
+            "message": "Daftar model berhasil dimuat.",
+            "data": training_service.list_models()
+        })
+    except Exception as exc:
+        return jsonify({
+            "status": False,
+            "message": str(exc)
+        }), 500
+
+
+@app.route("/training/activate/<model_id>", methods=["POST"])
+def training_activate(model_id):
+    if not training_authorized():
+        return training_unauthorized_response()
+
+    if not re.fullmatch(r"[A-Za-z0-9_-]+", model_id or ""):
+        return jsonify({
+            "status": False,
+            "message": "ID model tidak valid."
+        }), 400
+
+    try:
+        result = training_service.activate_candidate(model_id)
+        # Reload model dan metadata tanpa perlu restart Flask.
+        load_artifacts()
+        return jsonify({
+            "status": True,
+            "message": result["message"],
+            "data": result
+        })
+    except Exception as exc:
+        return jsonify({
+            "status": False,
+            "message": str(exc)
+        }), 400
 
 
 load_artifacts()

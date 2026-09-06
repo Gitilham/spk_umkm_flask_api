@@ -1,0 +1,95 @@
+{
+  "accuracy": 0.88,
+  "precision_macro": 0.892747,
+  "recall_macro": 0.88,
+  "f1_macro": 0.879419,
+  "classification_report": {
+    "Kuliner": {
+      "precision": 0.8571428571428571,
+      "recall": 0.9,
+      "f1-score": 0.8780487804878049,
+      "support": 20.0
+    },
+    "Perdagangan": {
+      "precision": 0.9090909090909091,
+      "recall": 1.0,
+      "f1-score": 0.9523809523809523,
+      "support": 20.0
+    },
+    "Jasa": {
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1-score": 0.8888888888888888,
+      "support": 20.0
+    },
+    "Produksi": {
+      "precision": 0.9375,
+      "recall": 0.75,
+      "f1-score": 0.8333333333333334,
+      "support": 20.0
+    },
+    "Pertanian/Peternakan": {
+      "precision": 0.76,
+      "recall": 0.95,
+      "f1-score": 0.8444444444444444,
+      "support": 20.0
+    },
+    "accuracy": 0.88,
+    "macro avg": {
+      "precision": 0.8927467532467531,
+      "recall": 0.8800000000000001,
+      "f1-score": 0.8794192799070848,
+      "support": 100.0
+    },
+    "weighted avg": {
+      "precision": 0.8927467532467532,
+      "recall": 0.88,
+      "f1-score": 0.8794192799070848,
+      "support": 100.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      18,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      20,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      1,
+      16,
+      0,
+      2
+    ],
+    [
+      1,
+      0,
+      0,
+      15,
+      4
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      19
+    ]
+  ],
+  "feature_importance": {
+    "Modal": 29159,
+    "Potensi_Pasar": 3428,
+    "Lokasi": 4111,
+    "Persaingan": 3567,
+    "Tren_Usaha": 3771
+  }
+}

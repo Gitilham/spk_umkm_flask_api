@@ -1,0 +1,35 @@
+{
+  "version": "v4.3-final",
+  "dataset_seed": 20260825,
+  "random_state_split_model": 42,
+  "total_dataset": 2000,
+  "training_count": 1600,
+  "validation_count": 200,
+  "testing_count": 200,
+  "selected_model": "C_conservative",
+  "best_iteration": 177,
+  "training_accuracy": 0.669375,
+  "validation_accuracy": 0.605,
+  "testing_accuracy": 0.625,
+  "testing_precision_macro": 0.6265328677093384,
+  "testing_recall_macro": 0.625,
+  "testing_f1_macro": 0.6214415973044972,
+  "testing_log_loss": 0.9410926128690081,
+  "train_test_accuracy_gap": 0.04437500000000005,
+  "confidence_testing": {
+    "mean_confidence": 0.6393179197836032,
+    "median_confidence": 0.6520086148087259,
+    "pct_ge_90": 0.025,
+    "pct_ge_95": 0.0,
+    "pct_ge_99": 0.0
+  },
+  "feature_importance_gain_percent": {
+    "Persaingan": 37.65838568545868,
+    "Lokasi": 25.3389356879965,
+    "Modal": 17.031067644445326,
+    "Tren_Usaha": 10.01480603658539,
+    "Potensi_Pasar": 9.9568049455141
+  },
+  "status": "FINAL_LOCKED",
+  "note": "Hasil testing final diterima apa adanya. Generator dan parameter tidak diubah lagi untuk mengejar metrik testing."
+}

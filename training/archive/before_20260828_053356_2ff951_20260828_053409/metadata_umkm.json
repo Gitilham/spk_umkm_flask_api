@@ -1,0 +1,59 @@
+{
+  "version": "v4.3-final",
+  "random_state": 42,
+  "dataset_seed": 20260825,
+  "final_locked": true,
+  "feature_cols": [
+    "Modal",
+    "Potensi_Pasar",
+    "Lokasi",
+    "Persaingan",
+    "Tren_Usaha"
+  ],
+  "category_map": {
+    "0": "Kuliner",
+    "1": "Perdagangan",
+    "2": "Jasa",
+    "3": "Produksi",
+    "4": "Pertanian/Peternakan"
+  },
+  "target_to_id": {
+    "Kuliner": 0,
+    "Perdagangan": 1,
+    "Jasa": 2,
+    "Produksi": 3,
+    "Pertanian/Peternakan": 4
+  },
+  "input_maps": {
+    "Potensi_Pasar": {
+      "1": "Rendah",
+      "2": "Sedang",
+      "3": "Tinggi"
+    },
+    "Lokasi": {
+      "1": "Kurang Strategis",
+      "2": "Strategis",
+      "3": "Sangat Strategis"
+    },
+    "Persaingan": {
+      "1": "Rendah",
+      "2": "Sedang",
+      "3": "Tinggi"
+    },
+    "Tren_Usaha": {
+      "1": "Kurang Stabil",
+      "2": "Stabil",
+      "3": "Sangat Stabil"
+    }
+  },
+  "dataset": {
+    "total": 2000,
+    "training": 1600,
+    "validation": 200,
+    "testing": 200,
+    "scenarios_per_business": 20,
+    "noise_rate": 0.05
+  },
+  "selected_model": "C_conservative",
+  "best_iteration": 177
+}

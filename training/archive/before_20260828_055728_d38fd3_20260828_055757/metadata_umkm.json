@@ -1,6 +1,6 @@
 {
-  "model_id": "20260828_055728_d38fd3",
-  "created_at": "2026-08-28T05:57:28+00:00",
+  "model_id": "20260822_185407_3fab22",
+  "created_at": "2026-08-22T18:54:07+00:00",
   "feature_cols": [
     "Modal",
     "Potensi_Pasar",
@@ -47,9 +47,9 @@
     "verbosity": -1
   },
   "split": {
-    "training": 1600,
-    "validation": 200,
-    "testing": 200,
+    "training": 800,
+    "validation": 100,
+    "testing": 100,
     "training_percent": 80,
     "validation_percent": 10,
     "testing_percent": 10,
@@ -57,9 +57,9 @@
     "random_state": 42
   },
   "dataset": {
-    "name": "dataset_umkm_v4_3_final_audit_2000.csv",
-    "saved_name": "20260828_055728_d38fd3_dataset_umkm_v4_3_final_audit_2000.csv",
-    "total_rows": 2000,
+    "name": "dataset_umkm_v3_1000_mapping_modal.csv",
+    "saved_name": "20260822_185407_3fab22_dataset_umkm_v3_1000_mapping_modal.csv",
+    "total_rows": 1000,
     "columns": [
       "Modal",
       "Potensi_Pasar",
@@ -69,50 +69,50 @@
       "Jenis_Usaha"
     ],
     "distribution": {
-      "Kuliner": 400,
-      "Perdagangan": 400,
-      "Jasa": 400,
-      "Produksi": 400,
-      "Pertanian/Peternakan": 400
+      "Kuliner": 200,
+      "Perdagangan": 200,
+      "Jasa": 200,
+      "Produksi": 200,
+      "Pertanian/Peternakan": 200
     },
-    "duplicate_rows": 0,
-    "modal_min": 600000,
-    "modal_max": 199700000,
+    "duplicate_rows": 67,
+    "modal_min": 900000,
+    "modal_max": 168900000,
     "modal_by_category": {
       "Jasa": {
-        "count": 400,
-        "min": 1100000,
-        "max": 195400000,
-        "median": 27800000,
-        "mean": 46770500.0
+        "count": 200,
+        "min": 1800000,
+        "max": 168900000,
+        "median": 14550000,
+        "mean": 23187000.0
       },
       "Kuliner": {
-        "count": 400,
-        "min": 2000000,
-        "max": 192200000,
-        "median": 15900000,
-        "mean": 35015000.0
+        "count": 200,
+        "min": 2600000,
+        "max": 29800000,
+        "median": 9550000,
+        "mean": 10670000.0
       },
       "Perdagangan": {
-        "count": 400,
-        "min": 600000,
-        "max": 199700000,
-        "median": 35900000,
-        "mean": 58630500.0
+        "count": 200,
+        "min": 900000,
+        "max": 105000000,
+        "median": 24300000,
+        "mean": 28378000.0
       },
       "Pertanian/Peternakan": {
-        "count": 400,
-        "min": 5100000,
-        "max": 199700000,
-        "median": 42150000,
-        "mean": 62296750.0
+        "count": 200,
+        "min": 5400000,
+        "max": 136900000,
+        "median": 25900000,
+        "mean": 31254000.0
       },
       "Produksi": {
-        "count": 400,
-        "min": 3400000,
-        "max": 197200000,
-        "median": 24050000,
-        "mean": 43341250.0
+        "count": 200,
+        "min": 4800000,
+        "max": 52200000,
+        "median": 15000000,
+        "mean": 17662500.0
       }
     },
     "criteria_values": {

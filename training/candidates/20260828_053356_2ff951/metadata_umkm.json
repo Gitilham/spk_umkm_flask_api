@@ -1,6 +1,6 @@
 {
-  "model_id": "20260828_055728_d38fd3",
-  "created_at": "2026-08-28T05:57:28+00:00",
+  "model_id": "20260828_053356_2ff951",
+  "created_at": "2026-08-28T05:33:56+00:00",
   "feature_cols": [
     "Modal",
     "Potensi_Pasar",
@@ -57,8 +57,8 @@
     "random_state": 42
   },
   "dataset": {
-    "name": "dataset_umkm_v4_3_final_audit_2000.csv",
-    "saved_name": "20260828_055728_d38fd3_dataset_umkm_v4_3_final_audit_2000.csv",
+    "name": "dataset_umkm_v4_3_final_training_2000.csv",
+    "saved_name": "20260828_053356_2ff951_dataset_umkm_v4_3_final_training_2000.csv",
     "total_rows": 2000,
     "columns": [
       "Modal",

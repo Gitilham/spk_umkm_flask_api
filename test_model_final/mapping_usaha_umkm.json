@@ -1,0 +1,602 @@
+[
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Warung makan",
+    "Modal_Min": 8000000,
+    "Modal_Max": 25000000
+  },
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Jualan gorengan",
+    "Modal_Min": 2000000,
+    "Modal_Max": 6000000
+  },
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Kedai kopi",
+    "Modal_Min": 5000000,
+    "Modal_Max": 20000000
+  },
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Minuman kekinian",
+    "Modal_Min": 5000000,
+    "Modal_Max": 12000000
+  },
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Bakery / kue",
+    "Modal_Min": 10000000,
+    "Modal_Max": 35000000
+  },
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Catering",
+    "Modal_Min": 8000000,
+    "Modal_Max": 30000000
+  },
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Nasi kuning",
+    "Modal_Min": 3000000,
+    "Modal_Max": 10000000
+  },
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Nasi uduk",
+    "Modal_Min": 3000000,
+    "Modal_Max": 10000000
+  },
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Usaha jus / es buah",
+    "Modal_Min": 3000000,
+    "Modal_Max": 8000000
+  },
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Angkringan",
+    "Modal_Min": 5000000,
+    "Modal_Max": 15000000
+  },
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Makanan cepat saji",
+    "Modal_Min": 10000000,
+    "Modal_Max": 30000000
+  },
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Makanan tradisional",
+    "Modal_Min": 5000000,
+    "Modal_Max": 15000000
+  },
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Street food",
+    "Modal_Min": 3000000,
+    "Modal_Max": 10000000
+  },
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Frozen food rumahan",
+    "Modal_Min": 5000000,
+    "Modal_Max": 15000000
+  },
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Dessert box",
+    "Modal_Min": 3000000,
+    "Modal_Max": 8000000
+  },
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Usaha catering harian",
+    "Modal_Min": 5000000,
+    "Modal_Max": 20000000
+  },
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Jajanan pasar",
+    "Modal_Min": 2000000,
+    "Modal_Max": 7000000
+  },
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Usaha martabak",
+    "Modal_Min": 10000000,
+    "Modal_Max": 20000000
+  },
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Usaha mie ayam",
+    "Modal_Min": 8000000,
+    "Modal_Max": 20000000
+  },
+  {
+    "Kategori": "Kuliner",
+    "Jenis_Usaha": "Usaha bakso",
+    "Modal_Min": 10000000,
+    "Modal_Max": 25000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Toko sembako",
+    "Modal_Min": 10000000,
+    "Modal_Max": 30000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Toko kelontong",
+    "Modal_Min": 10000000,
+    "Modal_Max": 25000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Reseller online",
+    "Modal_Min": 1000000,
+    "Modal_Max": 8000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Dropshipper",
+    "Modal_Min": 500000,
+    "Modal_Max": 3000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Toko pakaian",
+    "Modal_Min": 15000000,
+    "Modal_Max": 50000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Toko alat tulis",
+    "Modal_Min": 10000000,
+    "Modal_Max": 30000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Toko kosmetik",
+    "Modal_Min": 10000000,
+    "Modal_Max": 30000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Toko elektronik kecil",
+    "Modal_Min": 20000000,
+    "Modal_Max": 60000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Toko aksesoris",
+    "Modal_Min": 5000000,
+    "Modal_Max": 20000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Toko sepatu",
+    "Modal_Min": 15000000,
+    "Modal_Max": 45000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Toko tas",
+    "Modal_Min": 15000000,
+    "Modal_Max": 45000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Toko perlengkapan bayi",
+    "Modal_Min": 20000000,
+    "Modal_Max": 60000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Toko buku",
+    "Modal_Min": 15000000,
+    "Modal_Max": 40000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Toko mainan anak",
+    "Modal_Min": 15000000,
+    "Modal_Max": 40000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Toko bahan bangunan kecil",
+    "Modal_Min": 30000000,
+    "Modal_Max": 100000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Toko sparepart motor",
+    "Modal_Min": 25000000,
+    "Modal_Max": 80000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Toko handphone",
+    "Modal_Min": 30000000,
+    "Modal_Max": 120000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Toko herbal",
+    "Modal_Min": 10000000,
+    "Modal_Max": 30000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Toko peralatan rumah tangga",
+    "Modal_Min": 20000000,
+    "Modal_Max": 60000000
+  },
+  {
+    "Kategori": "Perdagangan",
+    "Jenis_Usaha": "Toko online marketplace",
+    "Modal_Min": 2000000,
+    "Modal_Max": 15000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Laundry",
+    "Modal_Min": 9000000,
+    "Modal_Max": 30000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Servis HP",
+    "Modal_Min": 5000000,
+    "Modal_Max": 20000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Jahit",
+    "Modal_Min": 5000000,
+    "Modal_Max": 20000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Cuci motor",
+    "Modal_Min": 8000000,
+    "Modal_Max": 20000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Cuci mobil",
+    "Modal_Min": 20000000,
+    "Modal_Max": 60000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Fotokopi / print",
+    "Modal_Min": 25000000,
+    "Modal_Max": 60000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Les privat",
+    "Modal_Min": 1000000,
+    "Modal_Max": 5000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Jasa desain grafis",
+    "Modal_Min": 5000000,
+    "Modal_Max": 20000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Jasa pengetikan",
+    "Modal_Min": 5000000,
+    "Modal_Max": 15000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Jasa editing video",
+    "Modal_Min": 10000000,
+    "Modal_Max": 30000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Jasa fotografi",
+    "Modal_Min": 30000000,
+    "Modal_Max": 60000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Jasa kebersihan rumah",
+    "Modal_Min": 2000000,
+    "Modal_Max": 10000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Jasa service AC",
+    "Modal_Min": 10000000,
+    "Modal_Max": 25000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Jasa salon",
+    "Modal_Min": 20000000,
+    "Modal_Max": 60000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Jasa makeup artist",
+    "Modal_Min": 8000000,
+    "Modal_Max": 30000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Jasa rental kendaraan",
+    "Modal_Min": 30000000,
+    "Modal_Max": 200000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Jasa tour guide",
+    "Modal_Min": 2000000,
+    "Modal_Max": 10000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Jasa pengiriman barang",
+    "Modal_Min": 10000000,
+    "Modal_Max": 50000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Jasa perbaikan elektronik",
+    "Modal_Min": 8000000,
+    "Modal_Max": 25000000
+  },
+  {
+    "Kategori": "Jasa",
+    "Jenis_Usaha": "Jasa tukang bangunan",
+    "Modal_Min": 3000000,
+    "Modal_Max": 15000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Keripik / makanan ringan",
+    "Modal_Min": 5000000,
+    "Modal_Max": 15000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Kerajinan tangan",
+    "Modal_Min": 3000000,
+    "Modal_Max": 15000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Sabun / kosmetik",
+    "Modal_Min": 10000000,
+    "Modal_Max": 30000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Produk olahan makanan",
+    "Modal_Min": 5000000,
+    "Modal_Max": 20000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Konveksi rumahan",
+    "Modal_Min": 20000000,
+    "Modal_Max": 60000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Souvenir",
+    "Modal_Min": 5000000,
+    "Modal_Max": 20000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Anyaman",
+    "Modal_Min": 3000000,
+    "Modal_Max": 15000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Olahan hasil laut",
+    "Modal_Min": 10000000,
+    "Modal_Max": 30000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Produksi roti",
+    "Modal_Min": 15000000,
+    "Modal_Max": 40000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Produksi kue kering",
+    "Modal_Min": 5000000,
+    "Modal_Max": 20000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Produksi minuman herbal",
+    "Modal_Min": 5000000,
+    "Modal_Max": 20000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Produksi kerupuk",
+    "Modal_Min": 10000000,
+    "Modal_Max": 30000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Produksi tempe",
+    "Modal_Min": 8000000,
+    "Modal_Max": 25000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Produksi tahu",
+    "Modal_Min": 15000000,
+    "Modal_Max": 40000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Produksi frozen food",
+    "Modal_Min": 10000000,
+    "Modal_Max": 35000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Produksi abon",
+    "Modal_Min": 8000000,
+    "Modal_Max": 25000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Produksi sambal",
+    "Modal_Min": 5000000,
+    "Modal_Max": 20000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Produksi pakaian",
+    "Modal_Min": 20000000,
+    "Modal_Max": 70000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Produksi tas handmade",
+    "Modal_Min": 8000000,
+    "Modal_Max": 30000000
+  },
+  {
+    "Kategori": "Produksi",
+    "Jenis_Usaha": "Produksi lilin aromaterapi",
+    "Modal_Min": 3000000,
+    "Modal_Max": 15000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Budidaya sayur",
+    "Modal_Min": 5000000,
+    "Modal_Max": 25000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Tanaman hias",
+    "Modal_Min": 5000000,
+    "Modal_Max": 20000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Ternak ayam",
+    "Modal_Min": 15000000,
+    "Modal_Max": 60000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Ternak ikan",
+    "Modal_Min": 15000000,
+    "Modal_Max": 50000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Ternak kambing",
+    "Modal_Min": 20000000,
+    "Modal_Max": 80000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Hidroponik",
+    "Modal_Min": 15000000,
+    "Modal_Max": 50000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Perkebunan kecil",
+    "Modal_Min": 10000000,
+    "Modal_Max": 50000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Budidaya cabai",
+    "Modal_Min": 10000000,
+    "Modal_Max": 50000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Budidaya jamur",
+    "Modal_Min": 15000000,
+    "Modal_Max": 50000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Budidaya buah",
+    "Modal_Min": 10000000,
+    "Modal_Max": 50000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Peternakan bebek",
+    "Modal_Min": 15000000,
+    "Modal_Max": 50000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Peternakan sapi",
+    "Modal_Min": 40000000,
+    "Modal_Max": 150000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Budidaya lele",
+    "Modal_Min": 10000000,
+    "Modal_Max": 50000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Budidaya nila",
+    "Modal_Min": 15000000,
+    "Modal_Max": 60000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Pertanian organik",
+    "Modal_Min": 10000000,
+    "Modal_Max": 40000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Budidaya tanaman obat",
+    "Modal_Min": 5000000,
+    "Modal_Max": 20000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Budidaya bunga",
+    "Modal_Min": 10000000,
+    "Modal_Max": 40000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Perkebunan kopi",
+    "Modal_Min": 15000000,
+    "Modal_Max": 60000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Perkebunan kelapa",
+    "Modal_Min": 15000000,
+    "Modal_Max": 60000000
+  },
+  {
+    "Kategori": "Pertanian/Peternakan",
+    "Jenis_Usaha": "Perkebunan pisang",
+    "Modal_Min": 10000000,
+    "Modal_Max": 40000000
+  }
+]

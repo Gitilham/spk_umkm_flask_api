@@ -1,0 +1,2001 @@
+Modal,Potensi_Pasar,Lokasi,Persaingan,Tren_Usaha,Jenis_Usaha,Jenis_Usaha_Spesifik,id_mapping,skenario_ke
+14100000,3,3,1,2,Kuliner,Warung makan,1,1
+22600000,3,2,3,2,Kuliner,Warung makan,1,2
+13400000,3,2,2,3,Kuliner,Warung makan,1,3
+10200000,3,3,2,3,Kuliner,Warung makan,1,4
+22500000,3,2,2,3,Kuliner,Warung makan,1,5
+13900000,2,2,2,3,Kuliner,Warung makan,1,6
+41000000,3,3,3,2,Kuliner,Warung makan,1,7
+39600000,3,3,3,2,Kuliner,Warung makan,1,8
+59600000,2,3,2,3,Kuliner,Warung makan,1,9
+91100000,3,3,3,3,Kuliner,Warung makan,1,10
+15900000,3,3,2,1,Kuliner,Warung makan,1,11
+11900000,3,3,2,3,Kuliner,Warung makan,1,12
+66200000,3,3,2,2,Kuliner,Warung makan,1,13
+14100000,3,2,1,2,Kuliner,Warung makan,1,14
+12600000,2,2,2,3,Kuliner,Warung makan,1,15
+10400000,3,3,2,3,Kuliner,Warung makan,1,16
+15600000,2,3,2,3,Kuliner,Warung makan,1,17
+15400000,2,3,3,3,Kuliner,Warung makan,1,18
+9500000,2,3,3,3,Kuliner,Warung makan,1,19
+70500000,2,2,2,2,Kuliner,Warung makan,1,20
+2100000,2,2,2,3,Kuliner,Jualan gorengan,2,1
+2000000,3,3,2,3,Kuliner,Jualan gorengan,2,2
+135200000,3,3,3,3,Kuliner,Jualan gorengan,2,3
+14100000,3,3,3,3,Kuliner,Jualan gorengan,2,4
+3600000,2,3,2,3,Kuliner,Jualan gorengan,2,5
+3700000,3,1,2,3,Kuliner,Jualan gorengan,2,6
+4300000,3,3,2,2,Kuliner,Jualan gorengan,2,7
+8900000,3,3,1,1,Kuliner,Jualan gorengan,2,8
+11800000,2,3,1,1,Kuliner,Jualan gorengan,2,9
+5400000,3,1,2,3,Kuliner,Jualan gorengan,2,10
+4800000,3,3,3,3,Kuliner,Jualan gorengan,2,11
+21500000,3,3,2,3,Kuliner,Jualan gorengan,2,12
+5300000,3,1,3,3,Kuliner,Jualan gorengan,2,13
+5000000,3,2,2,3,Kuliner,Jualan gorengan,2,14
+8500000,3,1,3,3,Kuliner,Jualan gorengan,2,15
+10500000,3,3,2,3,Kuliner,Jualan gorengan,2,16
+63100000,3,2,2,3,Kuliner,Jualan gorengan,2,17
+2300000,3,3,2,3,Kuliner,Jualan gorengan,2,18
+14600000,2,2,2,3,Kuliner,Jualan gorengan,2,19
+5000000,3,3,3,3,Kuliner,Jualan gorengan,2,20
+11400000,3,3,3,1,Kuliner,Kedai kopi,3,1
+138500000,3,3,3,3,Kuliner,Kedai kopi,3,2
+41400000,3,1,2,3,Kuliner,Kedai kopi,3,3
+19800000,3,1,2,3,Kuliner,Kedai kopi,3,4
+11800000,3,2,2,3,Kuliner,Kedai kopi,3,5
+186000000,1,3,2,3,Kuliner,Kedai kopi,3,6
+11300000,2,3,3,3,Kuliner,Kedai kopi,3,7
+7600000,3,3,2,2,Kuliner,Kedai kopi,3,8
+12900000,3,3,2,3,Kuliner,Kedai kopi,3,9
+13100000,3,3,2,2,Kuliner,Kedai kopi,3,10
+6200000,3,2,2,3,Kuliner,Kedai kopi,3,11
+11700000,3,2,3,3,Kuliner,Kedai kopi,3,12
+14300000,1,3,1,3,Kuliner,Kedai kopi,3,13
+53300000,3,2,3,3,Kuliner,Kedai kopi,3,14
+5600000,2,3,2,2,Kuliner,Kedai kopi,3,15
+13100000,3,2,2,3,Kuliner,Kedai kopi,3,16
+137300000,3,3,1,3,Kuliner,Kedai kopi,3,17
+51600000,3,3,3,3,Kuliner,Kedai kopi,3,18
+5900000,3,2,2,3,Kuliner,Kedai kopi,3,19
+178700000,3,3,2,3,Kuliner,Kedai kopi,3,20
+192200000,2,3,1,2,Kuliner,Minuman kekinian,4,1
+7700000,2,3,3,2,Kuliner,Minuman kekinian,4,2
+25200000,3,3,2,1,Kuliner,Minuman kekinian,4,3
+8500000,2,3,2,3,Kuliner,Minuman kekinian,4,4
+11500000,3,3,1,3,Kuliner,Minuman kekinian,4,5
+8000000,2,3,2,2,Kuliner,Minuman kekinian,4,6
+172500000,3,2,3,3,Kuliner,Minuman kekinian,4,7
+10100000,3,2,2,3,Kuliner,Minuman kekinian,4,8
+5200000,2,3,2,3,Kuliner,Minuman kekinian,4,9
+5700000,2,3,2,1,Kuliner,Minuman kekinian,4,10
+24500000,3,3,2,3,Kuliner,Minuman kekinian,4,11
+9000000,3,3,2,3,Kuliner,Minuman kekinian,4,12
+15200000,3,2,3,3,Kuliner,Minuman kekinian,4,13
+82700000,2,2,2,3,Kuliner,Minuman kekinian,4,14
+10700000,2,2,3,3,Kuliner,Minuman kekinian,4,15
+30300000,3,3,2,3,Kuliner,Minuman kekinian,4,16
+5500000,3,2,1,2,Kuliner,Minuman kekinian,4,17
+44800000,3,3,3,3,Kuliner,Minuman kekinian,4,18
+7200000,2,2,1,3,Kuliner,Minuman kekinian,4,19
+5400000,2,2,2,3,Kuliner,Minuman kekinian,4,20
+80300000,2,2,3,2,Kuliner,Bakery / kue,5,1
+29100000,1,2,2,3,Kuliner,Bakery / kue,5,2
+68900000,3,2,2,3,Kuliner,Bakery / kue,5,3
+41600000,2,1,2,1,Kuliner,Bakery / kue,5,4
+14400000,1,1,2,2,Kuliner,Bakery / kue,5,5
+15100000,3,2,2,3,Kuliner,Bakery / kue,5,6
+34400000,3,2,3,3,Kuliner,Bakery / kue,5,7
+26100000,3,2,2,3,Kuliner,Bakery / kue,5,8
+39500000,3,1,3,3,Kuliner,Bakery / kue,5,9
+15300000,3,3,1,1,Kuliner,Bakery / kue,5,10
+10400000,3,1,2,2,Kuliner,Bakery / kue,5,11
+12500000,3,2,2,3,Kuliner,Bakery / kue,5,12
+10600000,3,1,2,3,Kuliner,Bakery / kue,5,13
+24700000,2,2,2,1,Kuliner,Bakery / kue,5,14
+130800000,3,2,1,3,Kuliner,Bakery / kue,5,15
+123700000,3,2,3,3,Kuliner,Bakery / kue,5,16
+103000000,3,3,2,2,Kuliner,Bakery / kue,5,17
+79200000,1,2,3,2,Kuliner,Bakery / kue,5,18
+68700000,2,3,2,3,Kuliner,Bakery / kue,5,19
+164100000,3,2,3,3,Kuliner,Bakery / kue,5,20
+24200000,3,1,2,2,Kuliner,Catering,6,1
+27900000,2,3,2,3,Kuliner,Catering,6,2
+22700000,3,2,2,3,Kuliner,Catering,6,3
+9600000,2,1,1,3,Kuliner,Catering,6,4
+106700000,3,3,3,3,Kuliner,Catering,6,5
+18900000,2,2,2,3,Kuliner,Catering,6,6
+85800000,3,2,3,1,Kuliner,Catering,6,7
+144000000,3,1,3,1,Kuliner,Catering,6,8
+23400000,3,3,2,2,Kuliner,Catering,6,9
+56900000,2,3,1,3,Kuliner,Catering,6,10
+26000000,2,3,2,2,Kuliner,Catering,6,11
+8700000,3,3,3,3,Kuliner,Catering,6,12
+42200000,3,3,3,3,Kuliner,Catering,6,13
+22200000,2,2,3,3,Kuliner,Catering,6,14
+11100000,3,2,1,2,Kuliner,Catering,6,15
+92200000,3,2,3,3,Kuliner,Catering,6,16
+17200000,3,2,2,3,Kuliner,Catering,6,17
+19900000,1,2,3,3,Kuliner,Catering,6,18
+53100000,3,2,3,1,Kuliner,Catering,6,19
+47600000,3,3,2,1,Kuliner,Catering,6,20
+19300000,3,2,1,3,Kuliner,Nasi kuning,7,1
+4000000,3,3,2,3,Kuliner,Nasi kuning,7,2
+6600000,3,3,1,3,Kuliner,Nasi kuning,7,3
+6500000,1,3,2,2,Kuliner,Nasi kuning,7,4
+9500000,1,3,2,3,Kuliner,Nasi kuning,7,5
+5200000,3,1,2,3,Kuliner,Nasi kuning,7,6
+4800000,1,3,2,3,Kuliner,Nasi kuning,7,7
+51600000,1,2,2,3,Kuliner,Nasi kuning,7,8
+21000000,3,3,2,3,Kuliner,Nasi kuning,7,9
+19000000,2,1,1,3,Kuliner,Nasi kuning,7,10
+44500000,3,1,3,3,Kuliner,Nasi kuning,7,11
+33900000,1,3,2,3,Kuliner,Nasi kuning,7,12
+15900000,3,2,2,3,Kuliner,Nasi kuning,7,13
+4800000,3,3,2,3,Kuliner,Nasi kuning,7,14
+58600000,3,2,1,2,Kuliner,Nasi kuning,7,15
+26700000,2,3,2,3,Kuliner,Nasi kuning,7,16
+19200000,3,2,1,3,Kuliner,Nasi kuning,7,17
+4200000,1,3,3,1,Kuliner,Nasi kuning,7,18
+42700000,1,2,2,3,Kuliner,Nasi kuning,7,19
+6400000,2,2,3,2,Kuliner,Nasi kuning,7,20
+48000000,2,2,3,3,Kuliner,Nasi uduk,8,1
+4800000,2,3,2,2,Kuliner,Nasi uduk,8,2
+38300000,3,3,2,3,Kuliner,Nasi uduk,8,3
+5100000,3,3,1,3,Kuliner,Nasi uduk,8,4
+166400000,3,3,2,2,Kuliner,Nasi uduk,8,5
+6700000,3,3,2,3,Kuliner,Nasi uduk,8,6
+5700000,3,2,3,3,Kuliner,Nasi uduk,8,7
+95600000,2,3,2,2,Kuliner,Nasi uduk,8,8
+16900000,1,2,2,2,Kuliner,Nasi uduk,8,9
+8900000,1,2,2,3,Kuliner,Nasi uduk,8,10
+4100000,2,3,3,2,Kuliner,Nasi uduk,8,11
+3900000,2,2,3,3,Kuliner,Nasi uduk,8,12
+3400000,3,3,2,3,Kuliner,Nasi uduk,8,13
+3500000,1,3,1,3,Kuliner,Nasi uduk,8,14
+110400000,2,1,2,3,Kuliner,Nasi uduk,8,15
+9900000,3,3,1,3,Kuliner,Nasi uduk,8,16
+3800000,3,3,3,3,Kuliner,Nasi uduk,8,17
+61100000,3,2,2,3,Kuliner,Nasi uduk,8,18
+3100000,1,2,2,1,Kuliner,Nasi uduk,8,19
+9500000,3,3,2,2,Kuliner,Nasi uduk,8,20
+10800000,2,3,2,1,Kuliner,Usaha jus / es buah,9,1
+4900000,2,3,2,3,Kuliner,Usaha jus / es buah,9,2
+5300000,2,3,3,1,Kuliner,Usaha jus / es buah,9,3
+22900000,2,3,1,3,Kuliner,Usaha jus / es buah,9,4
+3100000,3,2,2,3,Kuliner,Usaha jus / es buah,9,5
+7800000,3,3,2,2,Kuliner,Usaha jus / es buah,9,6
+11400000,3,2,1,3,Kuliner,Usaha jus / es buah,9,7
+100900000,2,3,3,2,Kuliner,Usaha jus / es buah,9,8
+15900000,3,3,3,3,Kuliner,Usaha jus / es buah,9,9
+41300000,1,3,2,3,Kuliner,Usaha jus / es buah,9,10
+5600000,2,3,1,2,Kuliner,Usaha jus / es buah,9,11
+46600000,3,3,2,2,Kuliner,Usaha jus / es buah,9,12
+6500000,3,3,3,3,Kuliner,Usaha jus / es buah,9,13
+49100000,3,3,2,3,Kuliner,Usaha jus / es buah,9,14
+5000000,3,2,3,3,Kuliner,Usaha jus / es buah,9,15
+9300000,3,3,3,1,Kuliner,Usaha jus / es buah,9,16
+8000000,3,3,3,3,Kuliner,Usaha jus / es buah,9,17
+6600000,3,2,2,2,Kuliner,Usaha jus / es buah,9,18
+7100000,2,3,2,3,Kuliner,Usaha jus / es buah,9,19
+159900000,2,3,2,3,Kuliner,Usaha jus / es buah,9,20
+23600000,2,2,1,3,Kuliner,Angkringan,10,1
+20000000,3,3,3,3,Kuliner,Angkringan,10,2
+81300000,3,2,2,3,Kuliner,Angkringan,10,3
+10300000,2,2,1,3,Kuliner,Angkringan,10,4
+5400000,2,3,2,1,Kuliner,Angkringan,10,5
+8900000,2,3,1,3,Kuliner,Angkringan,10,6
+120600000,2,2,3,3,Kuliner,Angkringan,10,7
+9800000,3,3,2,1,Kuliner,Angkringan,10,8
+14600000,3,3,1,3,Kuliner,Angkringan,10,9
+5400000,3,2,1,3,Kuliner,Angkringan,10,10
+12400000,3,2,2,3,Kuliner,Angkringan,10,11
+11800000,2,3,3,2,Kuliner,Angkringan,10,12
+10000000,2,3,2,3,Kuliner,Angkringan,10,13
+8600000,2,3,2,3,Kuliner,Angkringan,10,14
+10000000,3,3,3,2,Kuliner,Angkringan,10,15
+5800000,2,3,2,3,Kuliner,Angkringan,10,16
+83400000,3,2,2,3,Kuliner,Angkringan,10,17
+8600000,3,3,3,3,Kuliner,Angkringan,10,18
+5100000,3,3,2,2,Kuliner,Angkringan,10,19
+62300000,3,1,3,1,Kuliner,Angkringan,10,20
+18200000,3,2,2,3,Kuliner,Makanan cepat saji,11,1
+14600000,3,3,2,3,Kuliner,Makanan cepat saji,11,2
+84600000,3,3,2,2,Kuliner,Makanan cepat saji,11,3
+19800000,3,3,3,3,Kuliner,Makanan cepat saji,11,4
+22700000,1,3,2,1,Kuliner,Makanan cepat saji,11,5
+66000000,2,3,2,3,Kuliner,Makanan cepat saji,11,6
+59200000,3,3,2,3,Kuliner,Makanan cepat saji,11,7
+15300000,3,3,3,1,Kuliner,Makanan cepat saji,11,8
+22300000,2,3,3,3,Kuliner,Makanan cepat saji,11,9
+11000000,2,3,3,2,Kuliner,Makanan cepat saji,11,10
+21700000,1,3,2,2,Kuliner,Makanan cepat saji,11,11
+29400000,3,3,3,3,Kuliner,Makanan cepat saji,11,12
+16600000,3,3,1,3,Kuliner,Makanan cepat saji,11,13
+18300000,3,1,3,2,Kuliner,Makanan cepat saji,11,14
+29600000,3,2,3,3,Kuliner,Makanan cepat saji,11,15
+26800000,3,2,1,3,Kuliner,Makanan cepat saji,11,16
+17400000,3,3,2,3,Kuliner,Makanan cepat saji,11,17
+42400000,3,3,3,3,Kuliner,Makanan cepat saji,11,18
+18100000,3,3,2,3,Kuliner,Makanan cepat saji,11,19
+101900000,3,2,2,3,Kuliner,Makanan cepat saji,11,20
+10300000,3,2,2,2,Kuliner,Makanan tradisional,12,1
+19700000,1,3,2,3,Kuliner,Makanan tradisional,12,2
+9500000,2,3,3,2,Kuliner,Makanan tradisional,12,3
+13100000,3,3,2,3,Kuliner,Makanan tradisional,12,4
+105600000,3,3,2,3,Kuliner,Makanan tradisional,12,5
+68500000,2,2,2,2,Kuliner,Makanan tradisional,12,6
+7800000,3,3,2,3,Kuliner,Makanan tradisional,12,7
+78100000,2,3,2,2,Kuliner,Makanan tradisional,12,8
+7900000,3,2,2,3,Kuliner,Makanan tradisional,12,9
+6100000,3,3,2,3,Kuliner,Makanan tradisional,12,10
+14400000,2,2,2,3,Kuliner,Makanan tradisional,12,11
+167300000,3,3,2,2,Kuliner,Makanan tradisional,12,12
+10800000,3,3,1,3,Kuliner,Makanan tradisional,12,13
+18100000,3,1,2,1,Kuliner,Makanan tradisional,12,14
+12100000,1,3,1,3,Kuliner,Makanan tradisional,12,15
+59500000,3,3,2,3,Kuliner,Makanan tradisional,12,16
+28600000,3,3,3,3,Kuliner,Makanan tradisional,12,17
+44700000,3,3,3,3,Kuliner,Makanan tradisional,12,18
+74100000,1,1,1,3,Kuliner,Makanan tradisional,12,19
+40600000,3,3,3,2,Kuliner,Makanan tradisional,12,20
+15400000,3,3,1,2,Kuliner,Street food,13,1
+4700000,1,3,3,3,Kuliner,Street food,13,2
+102700000,2,3,3,2,Kuliner,Street food,13,3
+5600000,3,3,2,2,Kuliner,Street food,13,4
+69800000,3,3,2,3,Kuliner,Street food,13,5
+22600000,3,3,2,1,Kuliner,Street food,13,6
+38500000,3,3,2,1,Kuliner,Street food,13,7
+131700000,3,3,2,3,Kuliner,Street food,13,8
+12600000,3,1,3,1,Kuliner,Street food,13,9
+5300000,1,3,3,2,Kuliner,Street food,13,10
+12300000,3,2,2,3,Kuliner,Street food,13,11
+3700000,3,1,3,1,Kuliner,Street food,13,12
+6800000,3,3,2,1,Kuliner,Street food,13,13
+3400000,2,3,2,2,Kuliner,Street food,13,14
+49200000,3,2,2,3,Kuliner,Street food,13,15
+70200000,3,3,2,2,Kuliner,Street food,13,16
+8100000,3,3,2,3,Kuliner,Street food,13,17
+5500000,3,3,2,3,Kuliner,Street food,13,18
+8200000,2,3,2,3,Kuliner,Street food,13,19
+3200000,1,2,2,3,Kuliner,Street food,13,20
+6600000,3,2,2,3,Kuliner,Frozen food rumahan,14,1
+5200000,3,3,1,3,Kuliner,Frozen food rumahan,14,2
+6700000,1,2,2,3,Kuliner,Frozen food rumahan,14,3
+21100000,3,3,2,2,Kuliner,Frozen food rumahan,14,4
+5200000,3,2,2,2,Kuliner,Frozen food rumahan,14,5
+5100000,2,2,1,2,Kuliner,Frozen food rumahan,14,6
+70100000,3,2,2,1,Kuliner,Frozen food rumahan,14,7
+8800000,1,2,2,3,Kuliner,Frozen food rumahan,14,8
+7400000,3,2,2,3,Kuliner,Frozen food rumahan,14,9
+126500000,3,2,2,2,Kuliner,Frozen food rumahan,14,10
+5400000,2,1,2,3,Kuliner,Frozen food rumahan,14,11
+24400000,3,2,2,3,Kuliner,Frozen food rumahan,14,12
+41900000,1,3,2,3,Kuliner,Frozen food rumahan,14,13
+11500000,3,2,3,3,Kuliner,Frozen food rumahan,14,14
+17500000,3,3,2,3,Kuliner,Frozen food rumahan,14,15
+14500000,3,3,1,3,Kuliner,Frozen food rumahan,14,16
+182600000,3,2,1,3,Kuliner,Frozen food rumahan,14,17
+8800000,2,2,3,3,Kuliner,Frozen food rumahan,14,18
+112300000,3,2,2,3,Kuliner,Frozen food rumahan,14,19
+34400000,3,2,3,2,Kuliner,Frozen food rumahan,14,20
+5000000,1,3,2,3,Kuliner,Dessert box,15,1
+3700000,3,2,2,3,Kuliner,Dessert box,15,2
+6000000,3,3,2,3,Kuliner,Dessert box,15,3
+4600000,3,2,2,3,Kuliner,Dessert box,15,4
+26600000,1,3,2,2,Kuliner,Dessert box,15,5
+30800000,2,1,2,2,Kuliner,Dessert box,15,6
+134500000,3,2,2,3,Kuliner,Dessert box,15,7
+24000000,3,1,2,3,Kuliner,Dessert box,15,8
+67400000,3,3,2,3,Kuliner,Dessert box,15,9
+31000000,2,2,2,3,Kuliner,Dessert box,15,10
+3600000,3,2,1,1,Kuliner,Dessert box,15,11
+29800000,3,1,1,1,Kuliner,Dessert box,15,12
+100600000,3,2,2,3,Kuliner,Dessert box,15,13
+119300000,3,1,2,3,Kuliner,Dessert box,15,14
+5500000,3,2,2,1,Kuliner,Dessert box,15,15
+29600000,2,3,2,2,Kuliner,Dessert box,15,16
+6100000,3,2,3,3,Kuliner,Dessert box,15,17
+5400000,3,2,2,3,Kuliner,Dessert box,15,18
+91400000,2,2,3,3,Kuliner,Dessert box,15,19
+6800000,3,3,1,3,Kuliner,Dessert box,15,20
+17000000,3,3,2,3,Kuliner,Usaha catering harian,16,1
+7100000,1,1,2,3,Kuliner,Usaha catering harian,16,2
+9400000,2,2,2,3,Kuliner,Usaha catering harian,16,3
+29800000,2,1,2,3,Kuliner,Usaha catering harian,16,4
+14900000,3,2,2,2,Kuliner,Usaha catering harian,16,5
+7200000,3,2,2,3,Kuliner,Usaha catering harian,16,6
+15900000,3,2,1,2,Kuliner,Usaha catering harian,16,7
+7600000,3,2,2,3,Kuliner,Usaha catering harian,16,8
+33400000,3,1,2,3,Kuliner,Usaha catering harian,16,9
+76300000,3,2,2,3,Kuliner,Usaha catering harian,16,10
+37400000,3,2,2,3,Kuliner,Usaha catering harian,16,11
+133500000,3,3,3,2,Kuliner,Usaha catering harian,16,12
+72800000,3,2,1,3,Kuliner,Usaha catering harian,16,13
+8500000,3,2,2,2,Kuliner,Usaha catering harian,16,14
+6600000,3,1,3,1,Kuliner,Usaha catering harian,16,15
+47600000,2,3,2,3,Kuliner,Usaha catering harian,16,16
+53900000,2,2,3,3,Kuliner,Usaha catering harian,16,17
+33600000,3,2,2,3,Kuliner,Usaha catering harian,16,18
+12600000,2,3,2,3,Kuliner,Usaha catering harian,16,19
+10200000,2,3,3,2,Kuliner,Usaha catering harian,16,20
+4200000,3,1,2,3,Kuliner,Jajanan pasar,17,1
+2000000,1,3,3,3,Kuliner,Jajanan pasar,17,2
+40800000,1,2,3,3,Kuliner,Jajanan pasar,17,3
+3500000,3,3,2,2,Kuliner,Jajanan pasar,17,4
+5400000,1,2,3,3,Kuliner,Jajanan pasar,17,5
+2700000,2,3,3,2,Kuliner,Jajanan pasar,17,6
+2300000,3,3,1,3,Kuliner,Jajanan pasar,17,7
+94100000,3,3,2,3,Kuliner,Jajanan pasar,17,8
+30500000,3,3,2,3,Kuliner,Jajanan pasar,17,9
+3000000,3,1,2,2,Kuliner,Jajanan pasar,17,10
+46300000,3,3,2,3,Kuliner,Jajanan pasar,17,11
+30600000,3,3,1,3,Kuliner,Jajanan pasar,17,12
+173600000,3,3,2,3,Kuliner,Jajanan pasar,17,13
+2800000,1,3,3,3,Kuliner,Jajanan pasar,17,14
+4400000,3,2,3,3,Kuliner,Jajanan pasar,17,15
+5800000,1,1,2,3,Kuliner,Jajanan pasar,17,16
+83400000,1,3,2,3,Kuliner,Jajanan pasar,17,17
+3600000,1,3,2,3,Kuliner,Jajanan pasar,17,18
+3000000,3,2,2,3,Kuliner,Jajanan pasar,17,19
+111000000,3,3,2,3,Kuliner,Jajanan pasar,17,20
+16200000,2,3,2,3,Kuliner,Usaha martabak,18,1
+34900000,3,2,2,1,Kuliner,Usaha martabak,18,2
+61800000,3,3,3,3,Kuliner,Usaha martabak,18,3
+28200000,3,3,2,3,Kuliner,Usaha martabak,18,4
+10300000,3,3,2,3,Kuliner,Usaha martabak,18,5
+181800000,3,3,2,3,Kuliner,Usaha martabak,18,6
+11200000,2,3,2,3,Kuliner,Usaha martabak,18,7
+12800000,3,3,3,2,Kuliner,Usaha martabak,18,8
+11700000,3,2,2,3,Kuliner,Usaha martabak,18,9
+11100000,3,2,2,3,Kuliner,Usaha martabak,18,10
+80400000,2,3,2,2,Kuliner,Usaha martabak,18,11
+42200000,3,3,2,3,Kuliner,Usaha martabak,18,12
+15600000,3,3,2,1,Kuliner,Usaha martabak,18,13
+10300000,3,2,2,3,Kuliner,Usaha martabak,18,14
+72600000,3,3,2,3,Kuliner,Usaha martabak,18,15
+12900000,2,1,2,3,Kuliner,Usaha martabak,18,16
+13500000,2,1,3,3,Kuliner,Usaha martabak,18,17
+15700000,3,3,2,3,Kuliner,Usaha martabak,18,18
+30300000,3,2,3,3,Kuliner,Usaha martabak,18,19
+19900000,3,2,2,2,Kuliner,Usaha martabak,18,20
+28400000,3,2,2,3,Kuliner,Usaha mie ayam,19,1
+16000000,3,3,2,2,Kuliner,Usaha mie ayam,19,2
+9000000,1,1,2,1,Kuliner,Usaha mie ayam,19,3
+8500000,3,3,3,2,Kuliner,Usaha mie ayam,19,4
+13000000,3,3,2,3,Kuliner,Usaha mie ayam,19,5
+9800000,1,3,3,3,Kuliner,Usaha mie ayam,19,6
+12900000,3,2,1,3,Kuliner,Usaha mie ayam,19,7
+49100000,3,2,2,3,Kuliner,Usaha mie ayam,19,8
+179200000,2,2,2,1,Kuliner,Usaha mie ayam,19,9
+12900000,1,3,1,2,Kuliner,Usaha mie ayam,19,10
+69800000,3,3,2,1,Kuliner,Usaha mie ayam,19,11
+36900000,2,1,3,3,Kuliner,Usaha mie ayam,19,12
+10800000,3,2,3,1,Kuliner,Usaha mie ayam,19,13
+65600000,3,3,2,2,Kuliner,Usaha mie ayam,19,14
+56800000,1,2,2,3,Kuliner,Usaha mie ayam,19,15
+114500000,2,2,2,3,Kuliner,Usaha mie ayam,19,16
+9900000,3,1,2,3,Kuliner,Usaha mie ayam,19,17
+131500000,3,3,2,3,Kuliner,Usaha mie ayam,19,18
+8300000,3,3,2,2,Kuliner,Usaha mie ayam,19,19
+18400000,3,3,2,2,Kuliner,Usaha mie ayam,19,20
+71700000,3,3,2,3,Kuliner,Usaha bakso,20,1
+58900000,3,3,3,3,Kuliner,Usaha bakso,20,2
+19600000,3,3,3,1,Kuliner,Usaha bakso,20,3
+12900000,2,3,2,3,Kuliner,Usaha bakso,20,4
+24400000,2,3,2,2,Kuliner,Usaha bakso,20,5
+124000000,3,3,2,1,Kuliner,Usaha bakso,20,6
+24900000,2,2,2,3,Kuliner,Usaha bakso,20,7
+84100000,3,3,2,3,Kuliner,Usaha bakso,20,8
+71300000,1,1,1,3,Kuliner,Usaha bakso,20,9
+12700000,3,1,2,3,Kuliner,Usaha bakso,20,10
+12300000,2,3,2,3,Kuliner,Usaha bakso,20,11
+45800000,1,3,2,3,Kuliner,Usaha bakso,20,12
+18300000,3,3,2,3,Kuliner,Usaha bakso,20,13
+47400000,3,2,2,3,Kuliner,Usaha bakso,20,14
+41200000,1,3,1,2,Kuliner,Usaha bakso,20,15
+173800000,2,3,2,3,Kuliner,Usaha bakso,20,16
+95500000,3,3,3,3,Kuliner,Usaha bakso,20,17
+26500000,2,3,2,3,Kuliner,Usaha bakso,20,18
+20400000,3,2,2,3,Kuliner,Usaha bakso,20,19
+170100000,2,3,3,3,Kuliner,Usaha bakso,20,20
+22700000,2,3,3,2,Perdagangan,Toko sembako,21,1
+12100000,1,2,3,2,Perdagangan,Toko sembako,21,2
+15100000,3,2,3,3,Perdagangan,Toko sembako,21,3
+35800000,1,3,3,2,Perdagangan,Toko sembako,21,4
+11000000,3,2,3,1,Perdagangan,Toko sembako,21,5
+28400000,3,3,3,2,Perdagangan,Toko sembako,21,6
+20300000,3,3,3,3,Perdagangan,Toko sembako,21,7
+55600000,1,2,3,2,Perdagangan,Toko sembako,21,8
+11600000,3,3,3,2,Perdagangan,Toko sembako,21,9
+143100000,3,3,3,3,Perdagangan,Toko sembako,21,10
+35400000,3,3,2,2,Perdagangan,Toko sembako,21,11
+40600000,3,3,3,3,Perdagangan,Toko sembako,21,12
+11000000,3,2,2,1,Perdagangan,Toko sembako,21,13
+23000000,3,1,3,2,Perdagangan,Toko sembako,21,14
+10500000,3,3,2,1,Perdagangan,Toko sembako,21,15
+27500000,3,3,3,2,Perdagangan,Toko sembako,21,16
+23700000,3,3,1,2,Perdagangan,Toko sembako,21,17
+18700000,3,3,3,2,Perdagangan,Toko sembako,21,18
+28700000,3,3,2,2,Perdagangan,Toko sembako,21,19
+11800000,3,3,3,2,Perdagangan,Toko sembako,21,20
+15200000,3,3,2,2,Perdagangan,Toko kelontong,22,1
+148500000,3,3,3,2,Perdagangan,Toko kelontong,22,2
+20300000,3,3,3,2,Perdagangan,Toko kelontong,22,3
+195700000,3,3,3,2,Perdagangan,Toko kelontong,22,4
+14900000,3,3,1,2,Perdagangan,Toko kelontong,22,5
+154100000,2,3,3,2,Perdagangan,Toko kelontong,22,6
+16100000,3,1,2,2,Perdagangan,Toko kelontong,22,7
+15900000,3,3,3,2,Perdagangan,Toko kelontong,22,8
+10200000,3,1,3,3,Perdagangan,Toko kelontong,22,9
+12200000,3,3,3,2,Perdagangan,Toko kelontong,22,10
+76300000,2,2,1,1,Perdagangan,Toko kelontong,22,11
+14800000,2,3,3,2,Perdagangan,Toko kelontong,22,12
+72200000,3,3,1,3,Perdagangan,Toko kelontong,22,13
+24100000,3,3,3,2,Perdagangan,Toko kelontong,22,14
+11100000,1,3,3,3,Perdagangan,Toko kelontong,22,15
+17100000,2,3,3,2,Perdagangan,Toko kelontong,22,16
+10000000,3,3,3,1,Perdagangan,Toko kelontong,22,17
+69000000,3,3,2,3,Perdagangan,Toko kelontong,22,18
+24300000,2,3,3,2,Perdagangan,Toko kelontong,22,19
+160700000,2,3,3,3,Perdagangan,Toko kelontong,22,20
+11400000,2,2,1,3,Perdagangan,Reseller online,23,1
+5700000,3,2,1,3,Perdagangan,Reseller online,23,2
+5200000,2,3,3,3,Perdagangan,Reseller online,23,3
+24700000,3,2,3,3,Perdagangan,Reseller online,23,4
+8000000,3,2,1,2,Perdagangan,Reseller online,23,5
+3200000,3,2,3,3,Perdagangan,Reseller online,23,6
+4900000,3,3,3,3,Perdagangan,Reseller online,23,7
+1700000,3,1,1,3,Perdagangan,Reseller online,23,8
+1800000,3,2,3,3,Perdagangan,Reseller online,23,9
+4000000,2,1,2,3,Perdagangan,Reseller online,23,10
+44800000,3,2,3,3,Perdagangan,Reseller online,23,11
+7100000,2,2,2,3,Perdagangan,Reseller online,23,12
+140800000,3,2,1,3,Perdagangan,Reseller online,23,13
+162600000,3,2,3,3,Perdagangan,Reseller online,23,14
+32900000,3,2,2,3,Perdagangan,Reseller online,23,15
+4700000,3,3,3,3,Perdagangan,Reseller online,23,16
+2500000,3,2,1,3,Perdagangan,Reseller online,23,17
+17000000,3,2,2,3,Perdagangan,Reseller online,23,18
+37700000,3,1,3,1,Perdagangan,Reseller online,23,19
+72300000,2,2,3,3,Perdagangan,Reseller online,23,20
+3700000,2,1,3,3,Perdagangan,Dropshipper,24,1
+3700000,3,3,3,3,Perdagangan,Dropshipper,24,2
+1200000,3,1,3,3,Perdagangan,Dropshipper,24,3
+10900000,2,2,3,3,Perdagangan,Dropshipper,24,4
+18700000,3,1,2,2,Perdagangan,Dropshipper,24,5
+146600000,3,2,3,3,Perdagangan,Dropshipper,24,6
+34700000,2,2,3,3,Perdagangan,Dropshipper,24,7
+1600000,3,1,3,3,Perdagangan,Dropshipper,24,8
+2700000,2,3,3,3,Perdagangan,Dropshipper,24,9
+145300000,2,1,3,1,Perdagangan,Dropshipper,24,10
+900000,2,1,3,1,Perdagangan,Dropshipper,24,11
+64200000,3,2,3,2,Perdagangan,Dropshipper,24,12
+2500000,2,1,3,2,Perdagangan,Dropshipper,24,13
+70900000,3,1,3,3,Perdagangan,Dropshipper,24,14
+131100000,3,3,3,3,Perdagangan,Dropshipper,24,15
+3000000,2,3,3,3,Perdagangan,Dropshipper,24,16
+69000000,3,2,3,2,Perdagangan,Dropshipper,24,17
+600000,3,2,3,3,Perdagangan,Dropshipper,24,18
+1200000,3,3,3,3,Perdagangan,Dropshipper,24,19
+38300000,3,1,1,3,Perdagangan,Dropshipper,24,20
+181200000,3,1,2,2,Perdagangan,Toko pakaian,25,1
+42900000,1,2,3,2,Perdagangan,Toko pakaian,25,2
+44000000,2,3,3,3,Perdagangan,Toko pakaian,25,3
+50900000,1,2,1,2,Perdagangan,Toko pakaian,25,4
+18000000,2,3,3,2,Perdagangan,Toko pakaian,25,5
+21700000,3,2,1,3,Perdagangan,Toko pakaian,25,6
+125400000,3,3,3,2,Perdagangan,Toko pakaian,25,7
+44000000,3,3,2,3,Perdagangan,Toko pakaian,25,8
+35700000,2,3,3,2,Perdagangan,Toko pakaian,25,9
+22000000,3,3,3,2,Perdagangan,Toko pakaian,25,10
+40800000,1,3,3,2,Perdagangan,Toko pakaian,25,11
+75600000,1,1,3,2,Perdagangan,Toko pakaian,25,12
+22500000,3,3,3,2,Perdagangan,Toko pakaian,25,13
+27900000,3,3,3,2,Perdagangan,Toko pakaian,25,14
+20700000,3,3,3,2,Perdagangan,Toko pakaian,25,15
+16300000,2,3,3,2,Perdagangan,Toko pakaian,25,16
+82400000,3,1,3,2,Perdagangan,Toko pakaian,25,17
+20100000,2,3,1,3,Perdagangan,Toko pakaian,25,18
+28800000,2,3,3,2,Perdagangan,Toko pakaian,25,19
+32900000,3,3,2,2,Perdagangan,Toko pakaian,25,20
+27000000,3,3,3,2,Perdagangan,Toko alat tulis,26,1
+24000000,3,3,3,2,Perdagangan,Toko alat tulis,26,2
+16800000,3,3,3,2,Perdagangan,Toko alat tulis,26,3
+13600000,3,3,3,2,Perdagangan,Toko alat tulis,26,4
+33300000,2,3,2,2,Perdagangan,Toko alat tulis,26,5
+69300000,1,3,3,2,Perdagangan,Toko alat tulis,26,6
+21800000,3,1,3,2,Perdagangan,Toko alat tulis,26,7
+26600000,3,3,2,2,Perdagangan,Toko alat tulis,26,8
+29000000,3,2,3,2,Perdagangan,Toko alat tulis,26,9
+99500000,3,3,3,2,Perdagangan,Toko alat tulis,26,10
+10500000,2,3,2,2,Perdagangan,Toko alat tulis,26,11
+10000000,3,2,3,1,Perdagangan,Toko alat tulis,26,12
+44000000,3,3,3,3,Perdagangan,Toko alat tulis,26,13
+18800000,3,3,3,2,Perdagangan,Toko alat tulis,26,14
+41400000,2,2,3,2,Perdagangan,Toko alat tulis,26,15
+63300000,1,3,3,2,Perdagangan,Toko alat tulis,26,16
+18400000,3,2,1,2,Perdagangan,Toko alat tulis,26,17
+11000000,3,1,3,2,Perdagangan,Toko alat tulis,26,18
+35600000,1,3,2,2,Perdagangan,Toko alat tulis,26,19
+30400000,3,3,3,2,Perdagangan,Toko alat tulis,26,20
+10900000,3,3,3,2,Perdagangan,Toko kosmetik,27,1
+43400000,3,3,3,3,Perdagangan,Toko kosmetik,27,2
+12000000,1,3,3,2,Perdagangan,Toko kosmetik,27,3
+22200000,3,3,2,3,Perdagangan,Toko kosmetik,27,4
+27600000,3,3,2,2,Perdagangan,Toko kosmetik,27,5
+34400000,1,1,3,3,Perdagangan,Toko kosmetik,27,6
+97200000,3,3,3,2,Perdagangan,Toko kosmetik,27,7
+21400000,3,3,2,2,Perdagangan,Toko kosmetik,27,8
+38100000,3,2,2,2,Perdagangan,Toko kosmetik,27,9
+103800000,2,3,2,2,Perdagangan,Toko kosmetik,27,10
+48600000,3,2,1,2,Perdagangan,Toko kosmetik,27,11
+18400000,3,2,3,3,Perdagangan,Toko kosmetik,27,12
+23200000,3,3,3,3,Perdagangan,Toko kosmetik,27,13
+23500000,3,3,3,3,Perdagangan,Toko kosmetik,27,14
+11700000,1,1,3,2,Perdagangan,Toko kosmetik,27,15
+25500000,3,3,3,3,Perdagangan,Toko kosmetik,27,16
+18600000,3,3,3,1,Perdagangan,Toko kosmetik,27,17
+83300000,3,2,1,3,Perdagangan,Toko kosmetik,27,18
+13700000,3,3,3,3,Perdagangan,Toko kosmetik,27,19
+171700000,2,3,3,3,Perdagangan,Toko kosmetik,27,20
+127800000,2,3,3,2,Perdagangan,Toko elektronik kecil,28,1
+83100000,3,3,1,1,Perdagangan,Toko elektronik kecil,28,2
+114600000,2,3,3,2,Perdagangan,Toko elektronik kecil,28,3
+32400000,3,3,2,2,Perdagangan,Toko elektronik kecil,28,4
+194200000,2,3,2,2,Perdagangan,Toko elektronik kecil,28,5
+152200000,3,3,3,2,Perdagangan,Toko elektronik kecil,28,6
+54000000,2,2,3,3,Perdagangan,Toko elektronik kecil,28,7
+27500000,2,3,3,1,Perdagangan,Toko elektronik kecil,28,8
+32800000,3,3,3,2,Perdagangan,Toko elektronik kecil,28,9
+134300000,2,2,3,2,Perdagangan,Toko elektronik kecil,28,10
+37500000,3,3,3,1,Perdagangan,Toko elektronik kecil,28,11
+46800000,3,3,3,2,Perdagangan,Toko elektronik kecil,28,12
+152600000,3,3,2,2,Perdagangan,Toko elektronik kecil,28,13
+36300000,3,3,3,2,Perdagangan,Toko elektronik kecil,28,14
+73400000,3,3,1,2,Perdagangan,Toko elektronik kecil,28,15
+31100000,3,3,3,2,Perdagangan,Toko elektronik kecil,28,16
+34500000,3,2,1,2,Perdagangan,Toko elektronik kecil,28,17
+84400000,1,3,3,2,Perdagangan,Toko elektronik kecil,28,18
+62200000,3,3,3,3,Perdagangan,Toko elektronik kecil,28,19
+85800000,2,3,3,2,Perdagangan,Toko elektronik kecil,28,20
+171300000,3,3,3,2,Perdagangan,Toko aksesoris,29,1
+5300000,1,1,3,2,Perdagangan,Toko aksesoris,29,2
+32300000,3,3,3,2,Perdagangan,Toko aksesoris,29,3
+19900000,3,3,3,3,Perdagangan,Toko aksesoris,29,4
+41300000,3,2,1,2,Perdagangan,Toko aksesoris,29,5
+5500000,3,3,3,2,Perdagangan,Toko aksesoris,29,6
+7600000,3,3,2,3,Perdagangan,Toko aksesoris,29,7
+29900000,3,2,1,2,Perdagangan,Toko aksesoris,29,8
+13900000,2,2,3,2,Perdagangan,Toko aksesoris,29,9
+14800000,3,3,3,3,Perdagangan,Toko aksesoris,29,10
+102300000,3,1,3,2,Perdagangan,Toko aksesoris,29,11
+36900000,3,2,3,1,Perdagangan,Toko aksesoris,29,12
+14300000,3,3,3,2,Perdagangan,Toko aksesoris,29,13
+83100000,2,3,3,2,Perdagangan,Toko aksesoris,29,14
+42200000,3,2,1,2,Perdagangan,Toko aksesoris,29,15
+7100000,3,3,1,2,Perdagangan,Toko aksesoris,29,16
+7100000,3,2,3,3,Perdagangan,Toko aksesoris,29,17
+6900000,3,3,3,3,Perdagangan,Toko aksesoris,29,18
+46200000,3,1,2,2,Perdagangan,Toko aksesoris,29,19
+17000000,3,3,1,2,Perdagangan,Toko aksesoris,29,20
+17500000,3,2,3,2,Perdagangan,Toko sepatu,30,1
+49000000,3,3,2,2,Perdagangan,Toko sepatu,30,2
+62900000,3,3,3,2,Perdagangan,Toko sepatu,30,3
+31000000,3,3,3,2,Perdagangan,Toko sepatu,30,4
+15700000,3,3,3,2,Perdagangan,Toko sepatu,30,5
+108600000,3,3,3,2,Perdagangan,Toko sepatu,30,6
+27300000,3,3,3,2,Perdagangan,Toko sepatu,30,7
+193500000,3,3,3,2,Perdagangan,Toko sepatu,30,8
+35700000,2,1,3,3,Perdagangan,Toko sepatu,30,9
+119500000,3,2,3,2,Perdagangan,Toko sepatu,30,10
+15500000,2,3,2,1,Perdagangan,Toko sepatu,30,11
+71800000,1,3,1,2,Perdagangan,Toko sepatu,30,12
+31600000,3,3,2,2,Perdagangan,Toko sepatu,30,13
+23700000,3,1,3,2,Perdagangan,Toko sepatu,30,14
+16500000,2,2,3,3,Perdagangan,Toko sepatu,30,15
+64400000,2,3,3,2,Perdagangan,Toko sepatu,30,16
+193600000,3,3,3,3,Perdagangan,Toko sepatu,30,17
+75900000,1,3,3,2,Perdagangan,Toko sepatu,30,18
+17100000,1,3,3,2,Perdagangan,Toko sepatu,30,19
+36900000,3,3,3,2,Perdagangan,Toko sepatu,30,20
+26700000,2,3,3,2,Perdagangan,Toko tas,31,1
+22700000,3,3,3,2,Perdagangan,Toko tas,31,2
+21700000,3,3,3,2,Perdagangan,Toko tas,31,3
+40000000,3,2,3,3,Perdagangan,Toko tas,31,4
+19500000,2,3,3,3,Perdagangan,Toko tas,31,5
+199700000,1,1,3,1,Perdagangan,Toko tas,31,6
+28300000,2,2,3,2,Perdagangan,Toko tas,31,7
+23300000,3,2,1,3,Perdagangan,Toko tas,31,8
+16300000,3,2,3,2,Perdagangan,Toko tas,31,9
+42700000,3,3,3,2,Perdagangan,Toko tas,31,10
+24500000,3,2,3,3,Perdagangan,Toko tas,31,11
+17600000,3,3,3,3,Perdagangan,Toko tas,31,12
+141000000,2,3,3,2,Perdagangan,Toko tas,31,13
+26900000,2,2,3,2,Perdagangan,Toko tas,31,14
+37700000,2,3,1,2,Perdagangan,Toko tas,31,15
+21800000,1,1,2,2,Perdagangan,Toko tas,31,16
+169000000,3,3,3,2,Perdagangan,Toko tas,31,17
+19500000,3,2,3,2,Perdagangan,Toko tas,31,18
+58400000,3,1,3,1,Perdagangan,Toko tas,31,19
+19000000,2,3,3,3,Perdagangan,Toko tas,31,20
+58000000,3,3,1,3,Perdagangan,Toko perlengkapan bayi,32,1
+140400000,3,3,1,1,Perdagangan,Toko perlengkapan bayi,32,2
+42000000,3,3,3,1,Perdagangan,Toko perlengkapan bayi,32,3
+47200000,3,3,3,2,Perdagangan,Toko perlengkapan bayi,32,4
+150200000,1,2,3,2,Perdagangan,Toko perlengkapan bayi,32,5
+36000000,2,3,2,3,Perdagangan,Toko perlengkapan bayi,32,6
+34900000,3,3,3,1,Perdagangan,Toko perlengkapan bayi,32,7
+31000000,3,2,1,1,Perdagangan,Toko perlengkapan bayi,32,8
+49900000,3,2,3,3,Perdagangan,Toko perlengkapan bayi,32,9
+60000000,3,3,2,1,Perdagangan,Toko perlengkapan bayi,32,10
+180500000,3,3,1,2,Perdagangan,Toko perlengkapan bayi,32,11
+191500000,2,3,3,3,Perdagangan,Toko perlengkapan bayi,32,12
+42000000,3,3,2,2,Perdagangan,Toko perlengkapan bayi,32,13
+142300000,1,3,3,2,Perdagangan,Toko perlengkapan bayi,32,14
+57700000,1,2,2,3,Perdagangan,Toko perlengkapan bayi,32,15
+97500000,3,1,3,2,Perdagangan,Toko perlengkapan bayi,32,16
+51300000,3,3,2,2,Perdagangan,Toko perlengkapan bayi,32,17
+163000000,2,3,3,2,Perdagangan,Toko perlengkapan bayi,32,18
+26900000,1,3,3,3,Perdagangan,Toko perlengkapan bayi,32,19
+122700000,2,3,2,2,Perdagangan,Toko perlengkapan bayi,32,20
+18900000,2,3,3,3,Perdagangan,Toko buku,33,1
+39600000,3,2,2,2,Perdagangan,Toko buku,33,2
+18200000,3,3,3,3,Perdagangan,Toko buku,33,3
+19100000,3,2,1,3,Perdagangan,Toko buku,33,4
+135700000,3,3,3,2,Perdagangan,Toko buku,33,5
+116900000,3,2,1,3,Perdagangan,Toko buku,33,6
+16200000,3,3,3,2,Perdagangan,Toko buku,33,7
+29000000,3,3,3,2,Perdagangan,Toko buku,33,8
+17800000,3,3,1,3,Perdagangan,Toko buku,33,9
+18300000,3,3,3,2,Perdagangan,Toko buku,33,10
+63600000,3,2,1,2,Perdagangan,Toko buku,33,11
+19400000,2,3,3,2,Perdagangan,Toko buku,33,12
+16400000,3,2,3,2,Perdagangan,Toko buku,33,13
+53100000,2,3,3,3,Perdagangan,Toko buku,33,14
+75300000,3,3,1,3,Perdagangan,Toko buku,33,15
+35100000,3,3,3,2,Perdagangan,Toko buku,33,16
+122900000,3,3,3,2,Perdagangan,Toko buku,33,17
+24800000,3,3,3,3,Perdagangan,Toko buku,33,18
+17800000,1,3,3,2,Perdagangan,Toko buku,33,19
+90300000,3,2,3,2,Perdagangan,Toko buku,33,20
+102900000,3,3,3,3,Perdagangan,Toko mainan anak,34,1
+73500000,2,3,3,2,Perdagangan,Toko mainan anak,34,2
+29500000,3,3,3,2,Perdagangan,Toko mainan anak,34,3
+27100000,3,3,3,2,Perdagangan,Toko mainan anak,34,4
+37200000,3,3,3,2,Perdagangan,Toko mainan anak,34,5
+23500000,3,3,3,2,Perdagangan,Toko mainan anak,34,6
+23700000,3,3,2,2,Perdagangan,Toko mainan anak,34,7
+25700000,3,3,2,2,Perdagangan,Toko mainan anak,34,8
+43800000,3,3,1,3,Perdagangan,Toko mainan anak,34,9
+32600000,3,3,2,2,Perdagangan,Toko mainan anak,34,10
+57900000,3,2,3,3,Perdagangan,Toko mainan anak,34,11
+156300000,3,2,3,2,Perdagangan,Toko mainan anak,34,12
+181600000,3,3,2,2,Perdagangan,Toko mainan anak,34,13
+33500000,2,3,3,3,Perdagangan,Toko mainan anak,34,14
+39200000,3,3,3,2,Perdagangan,Toko mainan anak,34,15
+19900000,3,3,3,2,Perdagangan,Toko mainan anak,34,16
+27600000,3,2,3,2,Perdagangan,Toko mainan anak,34,17
+34100000,3,3,3,2,Perdagangan,Toko mainan anak,34,18
+27400000,3,3,3,2,Perdagangan,Toko mainan anak,34,19
+80500000,3,3,3,2,Perdagangan,Toko mainan anak,34,20
+34300000,3,3,3,2,Perdagangan,Toko bahan bangunan kecil,35,1
+192700000,3,1,1,2,Perdagangan,Toko bahan bangunan kecil,35,2
+36200000,3,3,3,2,Perdagangan,Toko bahan bangunan kecil,35,3
+163700000,3,3,3,1,Perdagangan,Toko bahan bangunan kecil,35,4
+32500000,3,1,3,1,Perdagangan,Toko bahan bangunan kecil,35,5
+133500000,3,3,2,2,Perdagangan,Toko bahan bangunan kecil,35,6
+120700000,2,2,3,2,Perdagangan,Toko bahan bangunan kecil,35,7
+147900000,1,3,3,2,Perdagangan,Toko bahan bangunan kecil,35,8
+137300000,2,3,3,2,Perdagangan,Toko bahan bangunan kecil,35,9
+141300000,3,2,3,1,Perdagangan,Toko bahan bangunan kecil,35,10
+120500000,2,3,3,3,Perdagangan,Toko bahan bangunan kecil,35,11
+35400000,3,1,3,2,Perdagangan,Toko bahan bangunan kecil,35,12
+106200000,3,3,2,1,Perdagangan,Toko bahan bangunan kecil,35,13
+126600000,2,3,3,2,Perdagangan,Toko bahan bangunan kecil,35,14
+35200000,3,3,3,1,Perdagangan,Toko bahan bangunan kecil,35,15
+51000000,3,3,3,2,Perdagangan,Toko bahan bangunan kecil,35,16
+177900000,3,3,3,3,Perdagangan,Toko bahan bangunan kecil,35,17
+68200000,3,3,2,2,Perdagangan,Toko bahan bangunan kecil,35,18
+133200000,3,3,3,3,Perdagangan,Toko bahan bangunan kecil,35,19
+119100000,2,3,3,2,Perdagangan,Toko bahan bangunan kecil,35,20
+47700000,3,2,3,2,Perdagangan,Toko sparepart motor,36,1
+40300000,3,2,2,2,Perdagangan,Toko sparepart motor,36,2
+30100000,3,3,3,2,Perdagangan,Toko sparepart motor,36,3
+122800000,2,3,2,2,Perdagangan,Toko sparepart motor,36,4
+191200000,2,2,2,2,Perdagangan,Toko sparepart motor,36,5
+175300000,3,2,3,3,Perdagangan,Toko sparepart motor,36,6
+61400000,3,3,3,2,Perdagangan,Toko sparepart motor,36,7
+25500000,1,3,3,2,Perdagangan,Toko sparepart motor,36,8
+79100000,3,1,3,2,Perdagangan,Toko sparepart motor,36,9
+165400000,2,3,3,2,Perdagangan,Toko sparepart motor,36,10
+148700000,3,3,3,3,Perdagangan,Toko sparepart motor,36,11
+118700000,3,3,3,1,Perdagangan,Toko sparepart motor,36,12
+176800000,3,3,2,2,Perdagangan,Toko sparepart motor,36,13
+101600000,3,2,2,2,Perdagangan,Toko sparepart motor,36,14
+52800000,2,2,3,2,Perdagangan,Toko sparepart motor,36,15
+42400000,3,3,3,2,Perdagangan,Toko sparepart motor,36,16
+116700000,3,3,3,2,Perdagangan,Toko sparepart motor,36,17
+122400000,2,3,3,2,Perdagangan,Toko sparepart motor,36,18
+131900000,3,3,2,2,Perdagangan,Toko sparepart motor,36,19
+86800000,3,3,3,2,Perdagangan,Toko sparepart motor,36,20
+128900000,3,2,3,2,Perdagangan,Toko handphone,37,1
+170800000,3,3,3,2,Perdagangan,Toko handphone,37,2
+39400000,1,3,3,3,Perdagangan,Toko handphone,37,3
+128000000,3,3,3,2,Perdagangan,Toko handphone,37,4
+133200000,3,3,1,2,Perdagangan,Toko handphone,37,5
+61500000,3,3,3,2,Perdagangan,Toko handphone,37,6
+102500000,3,3,3,2,Perdagangan,Toko handphone,37,7
+65100000,3,3,3,2,Perdagangan,Toko handphone,37,8
+60300000,3,3,3,2,Perdagangan,Toko handphone,37,9
+74500000,3,3,1,3,Perdagangan,Toko handphone,37,10
+157700000,1,3,3,1,Perdagangan,Toko handphone,37,11
+119600000,3,3,3,3,Perdagangan,Toko handphone,37,12
+130400000,3,3,2,2,Perdagangan,Toko handphone,37,13
+177200000,3,3,3,1,Perdagangan,Toko handphone,37,14
+31100000,2,3,3,3,Perdagangan,Toko handphone,37,15
+43200000,3,1,2,1,Perdagangan,Toko handphone,37,16
+66600000,3,3,3,3,Perdagangan,Toko handphone,37,17
+62900000,3,3,2,2,Perdagangan,Toko handphone,37,18
+164700000,3,1,2,2,Perdagangan,Toko handphone,37,19
+164400000,1,3,3,2,Perdagangan,Toko handphone,37,20
+22600000,3,2,3,2,Perdagangan,Toko herbal,38,1
+69800000,3,2,3,2,Perdagangan,Toko herbal,38,2
+15500000,3,2,3,2,Perdagangan,Toko herbal,38,3
+10600000,3,2,3,3,Perdagangan,Toko herbal,38,4
+164900000,2,2,2,3,Perdagangan,Toko herbal,38,5
+11900000,3,3,3,2,Perdagangan,Toko herbal,38,6
+17100000,3,3,1,3,Perdagangan,Toko herbal,38,7
+169900000,2,2,2,2,Perdagangan,Toko herbal,38,8
+39900000,2,3,3,2,Perdagangan,Toko herbal,38,9
+151400000,3,3,3,2,Perdagangan,Toko herbal,38,10
+10200000,3,3,2,3,Perdagangan,Toko herbal,38,11
+19600000,3,2,2,3,Perdagangan,Toko herbal,38,12
+50100000,3,3,3,3,Perdagangan,Toko herbal,38,13
+123800000,3,1,3,2,Perdagangan,Toko herbal,38,14
+116700000,3,3,3,1,Perdagangan,Toko herbal,38,15
+27400000,3,3,3,1,Perdagangan,Toko herbal,38,16
+127900000,1,3,3,3,Perdagangan,Toko herbal,38,17
+30700000,3,3,3,2,Perdagangan,Toko herbal,38,18
+19400000,3,1,3,3,Perdagangan,Toko herbal,38,19
+18800000,3,2,3,2,Perdagangan,Toko herbal,38,20
+28200000,3,3,2,2,Perdagangan,Toko peralatan rumah tangga,39,1
+36200000,2,3,3,1,Perdagangan,Toko peralatan rumah tangga,39,2
+60600000,3,3,2,1,Perdagangan,Toko peralatan rumah tangga,39,3
+104200000,2,3,3,3,Perdagangan,Toko peralatan rumah tangga,39,4
+40800000,3,3,3,2,Perdagangan,Toko peralatan rumah tangga,39,5
+40300000,3,2,3,2,Perdagangan,Toko peralatan rumah tangga,39,6
+28300000,3,3,3,2,Perdagangan,Toko peralatan rumah tangga,39,7
+163400000,3,2,2,2,Perdagangan,Toko peralatan rumah tangga,39,8
+38400000,3,2,2,2,Perdagangan,Toko peralatan rumah tangga,39,9
+24300000,3,3,3,3,Perdagangan,Toko peralatan rumah tangga,39,10
+150100000,1,3,3,2,Perdagangan,Toko peralatan rumah tangga,39,11
+23700000,3,2,3,2,Perdagangan,Toko peralatan rumah tangga,39,12
+115500000,3,2,3,2,Perdagangan,Toko peralatan rumah tangga,39,13
+147300000,1,3,3,2,Perdagangan,Toko peralatan rumah tangga,39,14
+64800000,3,3,3,2,Perdagangan,Toko peralatan rumah tangga,39,15
+47700000,2,3,2,2,Perdagangan,Toko peralatan rumah tangga,39,16
+29300000,3,3,3,2,Perdagangan,Toko peralatan rumah tangga,39,17
+39500000,3,3,1,2,Perdagangan,Toko peralatan rumah tangga,39,18
+33600000,3,3,3,2,Perdagangan,Toko peralatan rumah tangga,39,19
+53300000,3,3,3,2,Perdagangan,Toko peralatan rumah tangga,39,20
+167500000,1,1,3,3,Perdagangan,Toko online marketplace,40,1
+12100000,3,1,3,3,Perdagangan,Toko online marketplace,40,2
+5800000,3,3,1,3,Perdagangan,Toko online marketplace,40,3
+143100000,3,3,3,2,Perdagangan,Toko online marketplace,40,4
+3900000,3,1,1,3,Perdagangan,Toko online marketplace,40,5
+42600000,3,1,3,3,Perdagangan,Toko online marketplace,40,6
+196300000,3,1,3,2,Perdagangan,Toko online marketplace,40,7
+69900000,3,2,3,3,Perdagangan,Toko online marketplace,40,8
+21100000,3,3,2,3,Perdagangan,Toko online marketplace,40,9
+151200000,2,2,3,3,Perdagangan,Toko online marketplace,40,10
+2000000,3,1,3,1,Perdagangan,Toko online marketplace,40,11
+18000000,3,1,3,3,Perdagangan,Toko online marketplace,40,12
+11400000,3,1,2,3,Perdagangan,Toko online marketplace,40,13
+36900000,3,3,2,3,Perdagangan,Toko online marketplace,40,14
+22500000,3,2,3,3,Perdagangan,Toko online marketplace,40,15
+3800000,3,2,3,3,Perdagangan,Toko online marketplace,40,16
+7000000,3,1,2,2,Perdagangan,Toko online marketplace,40,17
+96000000,3,3,2,3,Perdagangan,Toko online marketplace,40,18
+19300000,3,3,3,3,Perdagangan,Toko online marketplace,40,19
+3400000,2,2,2,3,Perdagangan,Toko online marketplace,40,20
+22600000,2,2,1,3,Jasa,Laundry,41,1
+9300000,2,2,1,3,Jasa,Laundry,41,2
+9800000,2,3,1,1,Jasa,Laundry,41,3
+19400000,2,2,2,3,Jasa,Laundry,41,4
+24500000,3,2,2,2,Jasa,Laundry,41,5
+12100000,2,2,2,3,Jasa,Laundry,41,6
+112200000,2,2,1,3,Jasa,Laundry,41,7
+17600000,1,2,1,1,Jasa,Laundry,41,8
+36700000,3,2,1,3,Jasa,Laundry,41,9
+144500000,2,1,2,3,Jasa,Laundry,41,10
+27000000,1,1,1,3,Jasa,Laundry,41,11
+12800000,2,3,2,3,Jasa,Laundry,41,12
+36600000,3,3,1,3,Jasa,Laundry,41,13
+80500000,3,1,1,3,Jasa,Laundry,41,14
+50800000,2,2,1,2,Jasa,Laundry,41,15
+21900000,2,1,3,3,Jasa,Laundry,41,16
+22600000,3,2,1,3,Jasa,Laundry,41,17
+25300000,2,1,1,3,Jasa,Laundry,41,18
+23700000,3,3,1,2,Jasa,Laundry,41,19
+10900000,2,3,1,3,Jasa,Laundry,41,20
+73300000,2,2,1,3,Jasa,Servis HP,42,1
+5500000,3,2,1,3,Jasa,Servis HP,42,2
+13100000,2,1,2,2,Jasa,Servis HP,42,3
+11400000,3,2,1,3,Jasa,Servis HP,42,4
+11400000,2,2,1,3,Jasa,Servis HP,42,5
+60600000,2,2,3,3,Jasa,Servis HP,42,6
+74700000,2,2,1,3,Jasa,Servis HP,42,7
+8400000,3,2,1,3,Jasa,Servis HP,42,8
+10700000,2,2,1,3,Jasa,Servis HP,42,9
+10900000,3,2,2,3,Jasa,Servis HP,42,10
+14700000,2,2,2,3,Jasa,Servis HP,42,11
+14900000,2,3,1,3,Jasa,Servis HP,42,12
+8900000,2,2,1,3,Jasa,Servis HP,42,13
+19000000,3,2,1,3,Jasa,Servis HP,42,14
+21900000,3,2,1,3,Jasa,Servis HP,42,15
+16800000,1,1,2,3,Jasa,Servis HP,42,16
+25500000,2,1,1,3,Jasa,Servis HP,42,17
+86300000,2,2,2,3,Jasa,Servis HP,42,18
+24300000,2,1,1,3,Jasa,Servis HP,42,19
+121300000,2,2,1,3,Jasa,Servis HP,42,20
+195400000,3,2,1,2,Jasa,Jahit,43,1
+65400000,2,2,1,3,Jasa,Jahit,43,2
+8100000,3,1,2,3,Jasa,Jahit,43,3
+41400000,3,2,1,3,Jasa,Jahit,43,4
+103500000,2,2,1,3,Jasa,Jahit,43,5
+5900000,2,3,1,3,Jasa,Jahit,43,6
+18200000,3,1,2,2,Jasa,Jahit,43,7
+19400000,2,2,1,1,Jasa,Jahit,43,8
+5800000,2,2,1,3,Jasa,Jahit,43,9
+5100000,3,2,1,3,Jasa,Jahit,43,10
+5700000,3,3,1,1,Jasa,Jahit,43,11
+15200000,3,2,1,3,Jasa,Jahit,43,12
+7500000,2,3,1,1,Jasa,Jahit,43,13
+111900000,2,2,1,3,Jasa,Jahit,43,14
+7300000,1,3,1,1,Jasa,Jahit,43,15
+17900000,3,2,1,2,Jasa,Jahit,43,16
+9900000,2,3,1,3,Jasa,Jahit,43,17
+70300000,2,2,1,3,Jasa,Jahit,43,18
+31900000,2,2,2,1,Jasa,Jahit,43,19
+14200000,3,2,1,3,Jasa,Jahit,43,20
+13400000,2,2,1,3,Jasa,Cuci motor,44,1
+38300000,2,2,1,3,Jasa,Cuci motor,44,2
+16100000,2,2,1,2,Jasa,Cuci motor,44,3
+14300000,3,3,1,2,Jasa,Cuci motor,44,4
+176200000,2,2,1,2,Jasa,Cuci motor,44,5
+17600000,2,1,3,3,Jasa,Cuci motor,44,6
+57800000,2,3,3,1,Jasa,Cuci motor,44,7
+92500000,3,2,1,3,Jasa,Cuci motor,44,8
+30400000,2,3,1,3,Jasa,Cuci motor,44,9
+12600000,2,2,1,3,Jasa,Cuci motor,44,10
+64800000,2,2,1,3,Jasa,Cuci motor,44,11
+145700000,2,3,2,3,Jasa,Cuci motor,44,12
+16400000,3,1,1,3,Jasa,Cuci motor,44,13
+15400000,2,2,1,3,Jasa,Cuci motor,44,14
+11900000,1,2,1,3,Jasa,Cuci motor,44,15
+9500000,3,1,2,3,Jasa,Cuci motor,44,16
+58700000,2,2,1,3,Jasa,Cuci motor,44,17
+14400000,3,2,2,2,Jasa,Cuci motor,44,18
+9500000,2,2,1,3,Jasa,Cuci motor,44,19
+11800000,2,2,1,3,Jasa,Cuci motor,44,20
+96900000,2,2,1,1,Jasa,Cuci mobil,45,1
+117300000,3,2,1,3,Jasa,Cuci mobil,45,2
+20800000,2,3,1,2,Jasa,Cuci mobil,45,3
+192800000,3,2,1,2,Jasa,Cuci mobil,45,4
+57600000,2,2,1,3,Jasa,Cuci mobil,45,5
+28200000,3,2,1,3,Jasa,Cuci mobil,45,6
+102000000,3,2,1,1,Jasa,Cuci mobil,45,7
+111000000,2,2,1,3,Jasa,Cuci mobil,45,8
+146600000,2,2,3,2,Jasa,Cuci mobil,45,9
+24200000,3,2,1,3,Jasa,Cuci mobil,45,10
+28800000,2,2,1,3,Jasa,Cuci mobil,45,11
+35500000,2,2,3,2,Jasa,Cuci mobil,45,12
+164500000,3,3,3,2,Jasa,Cuci mobil,45,13
+27500000,2,3,1,2,Jasa,Cuci mobil,45,14
+177500000,3,2,1,3,Jasa,Cuci mobil,45,15
+30600000,3,2,1,3,Jasa,Cuci mobil,45,16
+29800000,3,2,1,2,Jasa,Cuci mobil,45,17
+30200000,3,2,1,3,Jasa,Cuci mobil,45,18
+42900000,2,3,1,3,Jasa,Cuci mobil,45,19
+34300000,2,2,1,3,Jasa,Cuci mobil,45,20
+46200000,3,1,1,2,Jasa,Fotokopi / print,46,1
+52600000,2,2,2,3,Jasa,Fotokopi / print,46,2
+56000000,2,3,1,2,Jasa,Fotokopi / print,46,3
+54700000,3,2,1,2,Jasa,Fotokopi / print,46,4
+26500000,2,2,2,2,Jasa,Fotokopi / print,46,5
+143600000,2,2,1,3,Jasa,Fotokopi / print,46,6
+90000000,2,2,1,3,Jasa,Fotokopi / print,46,7
+153900000,3,2,1,3,Jasa,Fotokopi / print,46,8
+32900000,2,2,1,3,Jasa,Fotokopi / print,46,9
+39100000,3,2,1,2,Jasa,Fotokopi / print,46,10
+168500000,2,2,1,1,Jasa,Fotokopi / print,46,11
+30300000,2,2,1,2,Jasa,Fotokopi / print,46,12
+31500000,2,3,1,3,Jasa,Fotokopi / print,46,13
+146900000,2,2,1,3,Jasa,Fotokopi / print,46,14
+79300000,2,2,2,2,Jasa,Fotokopi / print,46,15
+49200000,3,2,2,2,Jasa,Fotokopi / print,46,16
+57500000,3,3,3,2,Jasa,Fotokopi / print,46,17
+123100000,3,2,1,3,Jasa,Fotokopi / print,46,18
+95500000,3,2,1,3,Jasa,Fotokopi / print,46,19
+51500000,2,2,1,2,Jasa,Fotokopi / print,46,20
+4500000,1,1,1,3,Jasa,Les privat,47,1
+1800000,3,2,1,3,Jasa,Les privat,47,2
+2000000,2,1,3,2,Jasa,Les privat,47,3
+30200000,2,1,1,3,Jasa,Les privat,47,4
+1100000,3,3,1,3,Jasa,Les privat,47,5
+2500000,3,1,1,3,Jasa,Les privat,47,6
+4800000,2,1,1,3,Jasa,Les privat,47,7
+3500000,2,2,2,3,Jasa,Les privat,47,8
+63900000,3,1,2,3,Jasa,Les privat,47,9
+39200000,2,2,1,2,Jasa,Les privat,47,10
+33000000,2,2,1,2,Jasa,Les privat,47,11
+2900000,3,2,1,3,Jasa,Les privat,47,12
+53400000,3,2,1,3,Jasa,Les privat,47,13
+7900000,1,2,1,3,Jasa,Les privat,47,14
+4200000,3,2,2,3,Jasa,Les privat,47,15
+17300000,2,2,1,3,Jasa,Les privat,47,16
+32900000,2,1,2,3,Jasa,Les privat,47,17
+8400000,1,1,1,3,Jasa,Les privat,47,18
+2100000,2,1,2,3,Jasa,Les privat,47,19
+42500000,3,2,1,3,Jasa,Les privat,47,20
+8500000,2,2,2,2,Jasa,Jasa desain grafis,48,1
+18000000,2,2,1,2,Jasa,Jasa desain grafis,48,2
+6100000,2,1,1,3,Jasa,Jasa desain grafis,48,3
+64800000,2,1,1,2,Jasa,Jasa desain grafis,48,4
+32200000,3,2,1,3,Jasa,Jasa desain grafis,48,5
+14600000,3,2,1,3,Jasa,Jasa desain grafis,48,6
+16500000,1,2,1,3,Jasa,Jasa desain grafis,48,7
+7600000,2,1,2,2,Jasa,Jasa desain grafis,48,8
+98800000,2,2,3,3,Jasa,Jasa desain grafis,48,9
+58600000,2,2,1,3,Jasa,Jasa desain grafis,48,10
+6400000,3,3,2,2,Jasa,Jasa desain grafis,48,11
+5300000,3,1,1,2,Jasa,Jasa desain grafis,48,12
+81900000,2,1,2,3,Jasa,Jasa desain grafis,48,13
+5900000,2,2,1,3,Jasa,Jasa desain grafis,48,14
+124800000,2,1,3,3,Jasa,Jasa desain grafis,48,15
+5600000,2,3,1,3,Jasa,Jasa desain grafis,48,16
+52000000,3,1,1,3,Jasa,Jasa desain grafis,48,17
+102500000,3,2,1,3,Jasa,Jasa desain grafis,48,18
+7300000,1,2,1,3,Jasa,Jasa desain grafis,48,19
+11300000,2,1,1,2,Jasa,Jasa desain grafis,48,20
+65100000,2,2,1,3,Jasa,Jasa pengetikan,49,1
+38400000,2,2,1,3,Jasa,Jasa pengetikan,49,2
+20300000,2,1,1,3,Jasa,Jasa pengetikan,49,3
+33700000,2,2,1,3,Jasa,Jasa pengetikan,49,4
+104200000,2,2,1,3,Jasa,Jasa pengetikan,49,5
+22500000,2,2,1,3,Jasa,Jasa pengetikan,49,6
+174500000,3,2,1,3,Jasa,Jasa pengetikan,49,7
+8200000,2,1,1,3,Jasa,Jasa pengetikan,49,8
+90200000,2,1,2,3,Jasa,Jasa pengetikan,49,9
+14700000,1,2,2,3,Jasa,Jasa pengetikan,49,10
+8700000,3,1,1,3,Jasa,Jasa pengetikan,49,11
+19400000,3,3,1,3,Jasa,Jasa pengetikan,49,12
+12100000,2,2,1,1,Jasa,Jasa pengetikan,49,13
+5400000,2,3,1,3,Jasa,Jasa pengetikan,49,14
+24600000,3,2,1,2,Jasa,Jasa pengetikan,49,15
+10800000,3,2,3,3,Jasa,Jasa pengetikan,49,16
+7000000,1,2,2,3,Jasa,Jasa pengetikan,49,17
+76700000,2,2,2,2,Jasa,Jasa pengetikan,49,18
+5100000,2,1,1,1,Jasa,Jasa pengetikan,49,19
+8100000,2,2,1,3,Jasa,Jasa pengetikan,49,20
+74500000,3,2,1,3,Jasa,Jasa editing video,50,1
+13800000,2,1,1,3,Jasa,Jasa editing video,50,2
+137500000,2,2,1,3,Jasa,Jasa editing video,50,3
+29300000,2,2,1,3,Jasa,Jasa editing video,50,4
+14300000,1,1,1,3,Jasa,Jasa editing video,50,5
+16100000,2,3,1,2,Jasa,Jasa editing video,50,6
+10400000,2,2,1,3,Jasa,Jasa editing video,50,7
+127800000,2,2,1,3,Jasa,Jasa editing video,50,8
+29900000,2,3,1,3,Jasa,Jasa editing video,50,9
+13800000,1,1,1,3,Jasa,Jasa editing video,50,10
+11600000,2,2,3,2,Jasa,Jasa editing video,50,11
+69000000,1,2,3,3,Jasa,Jasa editing video,50,12
+26700000,2,1,1,3,Jasa,Jasa editing video,50,13
+143500000,2,3,1,3,Jasa,Jasa editing video,50,14
+69500000,2,2,1,3,Jasa,Jasa editing video,50,15
+14400000,1,2,1,3,Jasa,Jasa editing video,50,16
+63100000,2,1,1,3,Jasa,Jasa editing video,50,17
+112400000,1,2,1,3,Jasa,Jasa editing video,50,18
+19100000,2,1,1,2,Jasa,Jasa editing video,50,19
+166700000,2,1,1,3,Jasa,Jasa editing video,50,20
+34200000,2,2,1,2,Jasa,Jasa fotografi,51,1
+33200000,3,1,1,3,Jasa,Jasa fotografi,51,2
+62400000,3,2,1,3,Jasa,Jasa fotografi,51,3
+46100000,3,2,1,2,Jasa,Jasa fotografi,51,4
+58400000,2,1,1,3,Jasa,Jasa fotografi,51,5
+96300000,2,2,1,3,Jasa,Jasa fotografi,51,6
+42100000,2,2,1,1,Jasa,Jasa fotografi,51,7
+78500000,2,2,1,3,Jasa,Jasa fotografi,51,8
+72800000,2,2,1,2,Jasa,Jasa fotografi,51,9
+58700000,2,1,1,3,Jasa,Jasa fotografi,51,10
+97200000,3,2,1,3,Jasa,Jasa fotografi,51,11
+46800000,2,2,1,2,Jasa,Jasa fotografi,51,12
+181000000,2,2,1,3,Jasa,Jasa fotografi,51,13
+45100000,2,2,1,3,Jasa,Jasa fotografi,51,14
+70200000,3,1,1,3,Jasa,Jasa fotografi,51,15
+38400000,2,1,1,3,Jasa,Jasa fotografi,51,16
+45000000,3,1,2,3,Jasa,Jasa fotografi,51,17
+64300000,3,2,2,3,Jasa,Jasa fotografi,51,18
+99000000,3,2,2,2,Jasa,Jasa fotografi,51,19
+31900000,2,3,3,1,Jasa,Jasa fotografi,51,20
+3100000,2,3,1,3,Jasa,Jasa kebersihan rumah,52,1
+3500000,2,1,3,2,Jasa,Jasa kebersihan rumah,52,2
+3100000,2,1,1,3,Jasa,Jasa kebersihan rumah,52,3
+2200000,2,3,1,2,Jasa,Jasa kebersihan rumah,52,4
+34800000,2,2,1,1,Jasa,Jasa kebersihan rumah,52,5
+33800000,2,1,1,2,Jasa,Jasa kebersihan rumah,52,6
+21000000,2,1,1,3,Jasa,Jasa kebersihan rumah,52,7
+4000000,3,2,1,1,Jasa,Jasa kebersihan rumah,52,8
+5000000,2,2,1,2,Jasa,Jasa kebersihan rumah,52,9
+4400000,2,2,1,2,Jasa,Jasa kebersihan rumah,52,10
+6800000,3,2,2,2,Jasa,Jasa kebersihan rumah,52,11
+4300000,2,2,2,3,Jasa,Jasa kebersihan rumah,52,12
+42600000,2,1,1,2,Jasa,Jasa kebersihan rumah,52,13
+2200000,3,1,2,3,Jasa,Jasa kebersihan rumah,52,14
+76200000,2,2,2,2,Jasa,Jasa kebersihan rumah,52,15
+4100000,2,3,1,2,Jasa,Jasa kebersihan rumah,52,16
+8500000,2,2,1,1,Jasa,Jasa kebersihan rumah,52,17
+79000000,2,1,3,3,Jasa,Jasa kebersihan rumah,52,18
+76400000,2,2,2,1,Jasa,Jasa kebersihan rumah,52,19
+18000000,3,2,1,3,Jasa,Jasa kebersihan rumah,52,20
+31100000,2,2,2,3,Jasa,Jasa service AC,53,1
+18200000,2,2,1,3,Jasa,Jasa service AC,53,2
+23200000,3,1,1,3,Jasa,Jasa service AC,53,3
+28200000,3,3,1,3,Jasa,Jasa service AC,53,4
+102400000,2,2,1,3,Jasa,Jasa service AC,53,5
+27600000,3,2,2,3,Jasa,Jasa service AC,53,6
+14100000,2,2,2,2,Jasa,Jasa service AC,53,7
+13000000,2,3,3,1,Jasa,Jasa service AC,53,8
+31000000,3,2,1,2,Jasa,Jasa service AC,53,9
+16500000,2,2,1,3,Jasa,Jasa service AC,53,10
+15100000,3,3,1,3,Jasa,Jasa service AC,53,11
+24600000,2,2,1,3,Jasa,Jasa service AC,53,12
+10300000,1,2,3,3,Jasa,Jasa service AC,53,13
+180800000,3,2,1,3,Jasa,Jasa service AC,53,14
+102700000,2,3,1,2,Jasa,Jasa service AC,53,15
+23300000,2,2,1,3,Jasa,Jasa service AC,53,16
+15300000,3,2,1,2,Jasa,Jasa service AC,53,17
+21800000,2,2,1,3,Jasa,Jasa service AC,53,18
+16700000,3,2,2,3,Jasa,Jasa service AC,53,19
+12300000,1,1,1,3,Jasa,Jasa service AC,53,20
+123400000,2,2,1,3,Jasa,Jasa salon,54,1
+20700000,2,2,1,3,Jasa,Jasa salon,54,2
+82600000,2,2,1,3,Jasa,Jasa salon,54,3
+34500000,2,3,1,3,Jasa,Jasa salon,54,4
+110300000,2,2,1,1,Jasa,Jasa salon,54,5
+114800000,2,2,1,1,Jasa,Jasa salon,54,6
+49300000,3,3,1,2,Jasa,Jasa salon,54,7
+40400000,2,2,2,3,Jasa,Jasa salon,54,8
+37200000,3,3,1,2,Jasa,Jasa salon,54,9
+30000000,2,2,1,3,Jasa,Jasa salon,54,10
+112100000,2,1,2,3,Jasa,Jasa salon,54,11
+151700000,2,3,2,2,Jasa,Jasa salon,54,12
+136100000,2,2,1,2,Jasa,Jasa salon,54,13
+69900000,2,2,1,3,Jasa,Jasa salon,54,14
+133300000,3,2,1,3,Jasa,Jasa salon,54,15
+28300000,2,2,1,3,Jasa,Jasa salon,54,16
+21300000,2,2,1,3,Jasa,Jasa salon,54,17
+43900000,3,3,1,3,Jasa,Jasa salon,54,18
+39200000,1,2,2,3,Jasa,Jasa salon,54,19
+50600000,2,2,1,2,Jasa,Jasa salon,54,20
+21900000,2,2,1,3,Jasa,Jasa makeup artist,55,1
+8200000,2,2,1,3,Jasa,Jasa makeup artist,55,2
+41700000,2,2,1,2,Jasa,Jasa makeup artist,55,3
+9900000,3,2,2,3,Jasa,Jasa makeup artist,55,4
+130300000,3,2,1,3,Jasa,Jasa makeup artist,55,5
+10800000,2,2,1,3,Jasa,Jasa makeup artist,55,6
+30300000,2,1,2,3,Jasa,Jasa makeup artist,55,7
+13300000,2,2,2,3,Jasa,Jasa makeup artist,55,8
+66500000,3,2,2,3,Jasa,Jasa makeup artist,55,9
+21600000,2,2,2,2,Jasa,Jasa makeup artist,55,10
+20600000,1,2,2,3,Jasa,Jasa makeup artist,55,11
+18000000,3,2,2,3,Jasa,Jasa makeup artist,55,12
+65900000,1,2,1,3,Jasa,Jasa makeup artist,55,13
+136400000,3,1,1,3,Jasa,Jasa makeup artist,55,14
+13000000,2,2,2,3,Jasa,Jasa makeup artist,55,15
+104500000,3,3,1,3,Jasa,Jasa makeup artist,55,16
+39500000,2,2,2,3,Jasa,Jasa makeup artist,55,17
+124800000,2,2,1,3,Jasa,Jasa makeup artist,55,18
+9400000,2,1,1,2,Jasa,Jasa makeup artist,55,19
+156900000,2,1,2,3,Jasa,Jasa makeup artist,55,20
+81800000,2,3,1,2,Jasa,Jasa rental kendaraan,56,1
+126300000,2,1,1,3,Jasa,Jasa rental kendaraan,56,2
+36900000,2,2,1,2,Jasa,Jasa rental kendaraan,56,3
+162600000,2,2,1,3,Jasa,Jasa rental kendaraan,56,4
+44800000,2,2,1,2,Jasa,Jasa rental kendaraan,56,5
+40400000,2,2,1,3,Jasa,Jasa rental kendaraan,56,6
+94800000,2,2,2,2,Jasa,Jasa rental kendaraan,56,7
+158900000,2,2,1,2,Jasa,Jasa rental kendaraan,56,8
+37500000,2,2,1,2,Jasa,Jasa rental kendaraan,56,9
+143800000,2,2,1,2,Jasa,Jasa rental kendaraan,56,10
+126500000,2,1,1,2,Jasa,Jasa rental kendaraan,56,11
+32400000,2,3,1,2,Jasa,Jasa rental kendaraan,56,12
+184600000,2,2,1,2,Jasa,Jasa rental kendaraan,56,13
+115800000,2,3,1,1,Jasa,Jasa rental kendaraan,56,14
+87600000,2,3,1,2,Jasa,Jasa rental kendaraan,56,15
+142800000,2,1,1,2,Jasa,Jasa rental kendaraan,56,16
+69600000,2,1,1,2,Jasa,Jasa rental kendaraan,56,17
+171600000,1,3,1,1,Jasa,Jasa rental kendaraan,56,18
+140900000,2,2,3,3,Jasa,Jasa rental kendaraan,56,19
+30800000,2,2,1,2,Jasa,Jasa rental kendaraan,56,20
+7900000,2,3,1,3,Jasa,Jasa tour guide,57,1
+2100000,2,2,1,3,Jasa,Jasa tour guide,57,2
+4500000,2,1,1,2,Jasa,Jasa tour guide,57,3
+28000000,2,2,1,3,Jasa,Jasa tour guide,57,4
+5000000,3,2,1,3,Jasa,Jasa tour guide,57,5
+3500000,2,2,1,3,Jasa,Jasa tour guide,57,6
+3000000,1,2,1,3,Jasa,Jasa tour guide,57,7
+44500000,2,2,2,3,Jasa,Jasa tour guide,57,8
+7200000,2,2,1,3,Jasa,Jasa tour guide,57,9
+17000000,2,1,1,2,Jasa,Jasa tour guide,57,10
+18600000,1,2,1,3,Jasa,Jasa tour guide,57,11
+7000000,3,2,2,3,Jasa,Jasa tour guide,57,12
+6200000,2,2,1,2,Jasa,Jasa tour guide,57,13
+2500000,2,2,1,2,Jasa,Jasa tour guide,57,14
+4700000,2,1,2,3,Jasa,Jasa tour guide,57,15
+101100000,2,2,3,3,Jasa,Jasa tour guide,57,16
+101700000,2,2,1,2,Jasa,Jasa tour guide,57,17
+21300000,2,2,2,3,Jasa,Jasa tour guide,57,18
+97800000,2,2,1,1,Jasa,Jasa tour guide,57,19
+4400000,2,1,2,1,Jasa,Jasa tour guide,57,20
+23800000,2,2,1,2,Jasa,Jasa pengiriman barang,58,1
+128300000,3,1,2,3,Jasa,Jasa pengiriman barang,58,2
+66000000,3,2,1,2,Jasa,Jasa pengiriman barang,58,3
+10900000,2,1,1,2,Jasa,Jasa pengiriman barang,58,4
+70600000,2,2,1,2,Jasa,Jasa pengiriman barang,58,5
+13200000,2,2,1,3,Jasa,Jasa pengiriman barang,58,6
+38300000,2,2,3,2,Jasa,Jasa pengiriman barang,58,7
+103200000,2,1,2,2,Jasa,Jasa pengiriman barang,58,8
+29000000,2,1,2,2,Jasa,Jasa pengiriman barang,58,9
+152800000,3,2,2,2,Jasa,Jasa pengiriman barang,58,10
+15200000,3,1,2,2,Jasa,Jasa pengiriman barang,58,11
+25600000,2,1,1,2,Jasa,Jasa pengiriman barang,58,12
+39900000,3,2,1,3,Jasa,Jasa pengiriman barang,58,13
+30800000,2,1,2,2,Jasa,Jasa pengiriman barang,58,14
+39900000,2,2,1,2,Jasa,Jasa pengiriman barang,58,15
+26400000,2,2,1,2,Jasa,Jasa pengiriman barang,58,16
+174000000,2,1,2,3,Jasa,Jasa pengiriman barang,58,17
+12800000,2,1,1,2,Jasa,Jasa pengiriman barang,58,18
+21200000,3,3,1,2,Jasa,Jasa pengiriman barang,58,19
+44000000,2,2,1,2,Jasa,Jasa pengiriman barang,58,20
+9900000,3,3,1,3,Jasa,Jasa perbaikan elektronik,59,1
+13700000,2,2,1,3,Jasa,Jasa perbaikan elektronik,59,2
+23400000,2,1,2,2,Jasa,Jasa perbaikan elektronik,59,3
+37900000,2,2,1,2,Jasa,Jasa perbaikan elektronik,59,4
+10000000,2,2,1,1,Jasa,Jasa perbaikan elektronik,59,5
+17200000,1,2,2,2,Jasa,Jasa perbaikan elektronik,59,6
+19600000,2,3,2,3,Jasa,Jasa perbaikan elektronik,59,7
+32700000,2,2,1,2,Jasa,Jasa perbaikan elektronik,59,8
+20400000,2,2,1,3,Jasa,Jasa perbaikan elektronik,59,9
+68100000,2,2,1,3,Jasa,Jasa perbaikan elektronik,59,10
+9800000,2,3,1,3,Jasa,Jasa perbaikan elektronik,59,11
+17300000,3,2,1,3,Jasa,Jasa perbaikan elektronik,59,12
+22800000,2,3,1,3,Jasa,Jasa perbaikan elektronik,59,13
+185100000,2,3,1,3,Jasa,Jasa perbaikan elektronik,59,14
+22000000,2,2,1,3,Jasa,Jasa perbaikan elektronik,59,15
+25000000,1,2,1,3,Jasa,Jasa perbaikan elektronik,59,16
+14300000,2,2,1,1,Jasa,Jasa perbaikan elektronik,59,17
+18400000,1,2,3,2,Jasa,Jasa perbaikan elektronik,59,18
+10500000,2,1,1,2,Jasa,Jasa perbaikan elektronik,59,19
+36200000,2,2,1,3,Jasa,Jasa perbaikan elektronik,59,20
+13300000,3,2,1,3,Jasa,Jasa tukang bangunan,60,1
+191400000,1,3,1,1,Jasa,Jasa tukang bangunan,60,2
+8200000,2,1,3,3,Jasa,Jasa tukang bangunan,60,3
+11400000,2,1,1,2,Jasa,Jasa tukang bangunan,60,4
+80600000,3,2,1,1,Jasa,Jasa tukang bangunan,60,5
+14800000,3,1,3,3,Jasa,Jasa tukang bangunan,60,6
+3500000,2,1,1,3,Jasa,Jasa tukang bangunan,60,7
+6400000,2,1,1,2,Jasa,Jasa tukang bangunan,60,8
+9600000,2,2,1,1,Jasa,Jasa tukang bangunan,60,9
+14800000,2,2,1,3,Jasa,Jasa tukang bangunan,60,10
+4200000,2,2,1,2,Jasa,Jasa tukang bangunan,60,11
+3200000,3,1,1,3,Jasa,Jasa tukang bangunan,60,12
+165300000,2,1,1,2,Jasa,Jasa tukang bangunan,60,13
+5200000,1,2,1,3,Jasa,Jasa tukang bangunan,60,14
+23900000,3,2,3,3,Jasa,Jasa tukang bangunan,60,15
+3400000,2,2,1,3,Jasa,Jasa tukang bangunan,60,16
+19500000,2,1,1,2,Jasa,Jasa tukang bangunan,60,17
+3300000,2,2,1,1,Jasa,Jasa tukang bangunan,60,18
+17200000,1,1,1,2,Jasa,Jasa tukang bangunan,60,19
+5100000,2,2,1,3,Jasa,Jasa tukang bangunan,60,20
+6700000,2,1,3,2,Produksi,Keripik / makanan ringan,61,1
+7400000,2,1,2,2,Produksi,Keripik / makanan ringan,61,2
+11300000,2,1,2,3,Produksi,Keripik / makanan ringan,61,3
+25300000,2,1,2,2,Produksi,Keripik / makanan ringan,61,4
+46900000,2,3,2,2,Produksi,Keripik / makanan ringan,61,5
+8500000,2,1,3,2,Produksi,Keripik / makanan ringan,61,6
+7300000,2,2,2,2,Produksi,Keripik / makanan ringan,61,7
+10100000,2,1,2,1,Produksi,Keripik / makanan ringan,61,8
+41500000,2,1,1,2,Produksi,Keripik / makanan ringan,61,9
+6500000,2,1,3,1,Produksi,Keripik / makanan ringan,61,10
+6100000,2,1,2,2,Produksi,Keripik / makanan ringan,61,11
+35500000,1,1,2,3,Produksi,Keripik / makanan ringan,61,12
+6400000,2,1,2,2,Produksi,Keripik / makanan ringan,61,13
+14800000,2,1,2,2,Produksi,Keripik / makanan ringan,61,14
+15200000,2,1,3,2,Produksi,Keripik / makanan ringan,61,15
+168200000,2,1,2,2,Produksi,Keripik / makanan ringan,61,16
+87100000,1,1,3,3,Produksi,Keripik / makanan ringan,61,17
+9600000,2,2,2,2,Produksi,Keripik / makanan ringan,61,18
+48500000,2,1,2,2,Produksi,Keripik / makanan ringan,61,19
+14900000,2,1,2,2,Produksi,Keripik / makanan ringan,61,20
+67400000,1,3,2,2,Produksi,Kerajinan tangan,62,1
+7000000,2,1,2,2,Produksi,Kerajinan tangan,62,2
+18300000,2,3,2,2,Produksi,Kerajinan tangan,62,3
+44200000,2,1,2,2,Produksi,Kerajinan tangan,62,4
+49200000,2,1,2,2,Produksi,Kerajinan tangan,62,5
+91800000,1,2,2,2,Produksi,Kerajinan tangan,62,6
+64300000,2,1,1,2,Produksi,Kerajinan tangan,62,7
+12100000,2,2,1,1,Produksi,Kerajinan tangan,62,8
+25000000,2,1,2,3,Produksi,Kerajinan tangan,62,9
+3400000,2,1,2,2,Produksi,Kerajinan tangan,62,10
+4600000,2,1,1,1,Produksi,Kerajinan tangan,62,11
+13100000,2,1,1,2,Produksi,Kerajinan tangan,62,12
+7600000,2,1,3,2,Produksi,Kerajinan tangan,62,13
+3500000,2,1,2,1,Produksi,Kerajinan tangan,62,14
+75300000,2,1,2,3,Produksi,Kerajinan tangan,62,15
+103100000,2,2,2,2,Produksi,Kerajinan tangan,62,16
+7400000,2,1,3,2,Produksi,Kerajinan tangan,62,17
+9900000,2,2,2,3,Produksi,Kerajinan tangan,62,18
+5400000,2,2,2,2,Produksi,Kerajinan tangan,62,19
+27600000,2,1,2,1,Produksi,Kerajinan tangan,62,20
+29500000,3,1,3,2,Produksi,Sabun / kosmetik,63,1
+18200000,2,1,3,1,Produksi,Sabun / kosmetik,63,2
+19100000,2,1,3,2,Produksi,Sabun / kosmetik,63,3
+11400000,2,2,2,1,Produksi,Sabun / kosmetik,63,4
+15300000,2,1,2,1,Produksi,Sabun / kosmetik,63,5
+22700000,1,1,2,3,Produksi,Sabun / kosmetik,63,6
+12800000,2,1,2,2,Produksi,Sabun / kosmetik,63,7
+28900000,2,1,1,2,Produksi,Sabun / kosmetik,63,8
+12800000,1,3,2,2,Produksi,Sabun / kosmetik,63,9
+19700000,2,2,1,2,Produksi,Sabun / kosmetik,63,10
+36900000,2,1,1,2,Produksi,Sabun / kosmetik,63,11
+23200000,2,1,2,1,Produksi,Sabun / kosmetik,63,12
+135000000,2,1,2,2,Produksi,Sabun / kosmetik,63,13
+84300000,3,1,2,3,Produksi,Sabun / kosmetik,63,14
+16300000,3,1,3,2,Produksi,Sabun / kosmetik,63,15
+24200000,2,1,2,2,Produksi,Sabun / kosmetik,63,16
+35400000,2,1,3,2,Produksi,Sabun / kosmetik,63,17
+24100000,2,1,3,1,Produksi,Sabun / kosmetik,63,18
+67800000,2,1,2,1,Produksi,Sabun / kosmetik,63,19
+172500000,1,1,2,2,Produksi,Sabun / kosmetik,63,20
+103200000,2,1,2,2,Produksi,Produk olahan makanan,64,1
+10700000,2,1,3,2,Produksi,Produk olahan makanan,64,2
+19600000,3,2,2,2,Produksi,Produk olahan makanan,64,3
+5100000,2,2,2,2,Produksi,Produk olahan makanan,64,4
+106800000,3,2,3,2,Produksi,Produk olahan makanan,64,5
+7000000,3,1,1,2,Produksi,Produk olahan makanan,64,6
+11000000,2,2,2,2,Produksi,Produk olahan makanan,64,7
+16300000,2,1,2,3,Produksi,Produk olahan makanan,64,8
+61200000,2,1,2,3,Produksi,Produk olahan makanan,64,9
+6500000,1,2,2,2,Produksi,Produk olahan makanan,64,10
+11400000,2,2,2,2,Produksi,Produk olahan makanan,64,11
+13200000,2,1,2,2,Produksi,Produk olahan makanan,64,12
+123500000,2,1,2,3,Produksi,Produk olahan makanan,64,13
+79400000,2,2,2,3,Produksi,Produk olahan makanan,64,14
+7100000,3,2,1,3,Produksi,Produk olahan makanan,64,15
+11000000,2,2,2,3,Produksi,Produk olahan makanan,64,16
+5900000,2,1,2,2,Produksi,Produk olahan makanan,64,17
+85300000,2,2,2,2,Produksi,Produk olahan makanan,64,18
+21600000,1,1,2,2,Produksi,Produk olahan makanan,64,19
+126300000,2,1,2,2,Produksi,Produk olahan makanan,64,20
+91300000,2,1,2,3,Produksi,Konveksi rumahan,65,1
+38100000,2,1,1,2,Produksi,Konveksi rumahan,65,2
+24900000,2,2,2,2,Produksi,Konveksi rumahan,65,3
+45100000,2,2,2,2,Produksi,Konveksi rumahan,65,4
+43400000,3,1,3,2,Produksi,Konveksi rumahan,65,5
+128600000,2,2,1,3,Produksi,Konveksi rumahan,65,6
+26900000,2,1,2,2,Produksi,Konveksi rumahan,65,7
+24900000,2,3,1,2,Produksi,Konveksi rumahan,65,8
+48300000,2,1,2,2,Produksi,Konveksi rumahan,65,9
+46300000,3,1,2,2,Produksi,Konveksi rumahan,65,10
+24800000,1,2,1,2,Produksi,Konveksi rumahan,65,11
+34800000,2,1,2,2,Produksi,Konveksi rumahan,65,12
+31100000,2,1,3,2,Produksi,Konveksi rumahan,65,13
+117500000,2,1,2,2,Produksi,Konveksi rumahan,65,14
+21200000,2,1,2,3,Produksi,Konveksi rumahan,65,15
+21400000,2,2,1,2,Produksi,Konveksi rumahan,65,16
+32300000,2,1,2,2,Produksi,Konveksi rumahan,65,17
+38100000,2,1,2,2,Produksi,Konveksi rumahan,65,18
+24000000,2,2,2,3,Produksi,Konveksi rumahan,65,19
+24300000,2,2,2,2,Produksi,Konveksi rumahan,65,20
+18700000,2,2,2,1,Produksi,Souvenir,66,1
+142300000,2,1,2,2,Produksi,Souvenir,66,2
+5400000,2,1,3,2,Produksi,Souvenir,66,3
+66200000,2,1,2,2,Produksi,Souvenir,66,4
+9600000,2,1,3,2,Produksi,Souvenir,66,5
+126700000,2,3,2,2,Produksi,Souvenir,66,6
+29600000,1,1,2,1,Produksi,Souvenir,66,7
+6000000,2,1,2,2,Produksi,Souvenir,66,8
+11500000,2,1,2,2,Produksi,Souvenir,66,9
+8800000,2,1,1,2,Produksi,Souvenir,66,10
+14300000,2,3,2,2,Produksi,Souvenir,66,11
+33400000,2,1,1,2,Produksi,Souvenir,66,12
+12000000,1,1,2,1,Produksi,Souvenir,66,13
+108000000,3,1,2,2,Produksi,Souvenir,66,14
+11900000,2,1,2,1,Produksi,Souvenir,66,15
+72700000,2,2,2,2,Produksi,Souvenir,66,16
+9400000,2,2,2,1,Produksi,Souvenir,66,17
+63800000,2,1,2,2,Produksi,Souvenir,66,18
+7100000,2,1,2,2,Produksi,Souvenir,66,19
+7600000,2,1,2,2,Produksi,Souvenir,66,20
+162300000,2,1,2,2,Produksi,Anyaman,67,1
+191000000,2,1,2,2,Produksi,Anyaman,67,2
+4100000,1,2,3,3,Produksi,Anyaman,67,3
+148600000,2,2,2,2,Produksi,Anyaman,67,4
+10500000,2,1,3,1,Produksi,Anyaman,67,5
+12400000,2,3,1,2,Produksi,Anyaman,67,6
+10500000,2,3,2,3,Produksi,Anyaman,67,7
+32600000,2,1,2,2,Produksi,Anyaman,67,8
+4700000,2,2,2,2,Produksi,Anyaman,67,9
+4000000,2,1,2,1,Produksi,Anyaman,67,10
+6000000,2,1,3,1,Produksi,Anyaman,67,11
+112000000,2,2,2,1,Produksi,Anyaman,67,12
+8300000,3,1,2,2,Produksi,Anyaman,67,13
+9200000,2,2,2,2,Produksi,Anyaman,67,14
+30900000,2,2,2,1,Produksi,Anyaman,67,15
+3400000,2,1,2,3,Produksi,Anyaman,67,16
+20700000,2,2,2,3,Produksi,Anyaman,67,17
+131800000,3,1,2,3,Produksi,Anyaman,67,18
+77500000,2,2,2,3,Produksi,Anyaman,67,19
+86700000,2,1,2,2,Produksi,Anyaman,67,20
+78700000,2,2,2,2,Produksi,Olahan hasil laut,68,1
+28800000,2,1,3,2,Produksi,Olahan hasil laut,68,2
+17400000,2,1,2,2,Produksi,Olahan hasil laut,68,3
+12900000,2,1,2,2,Produksi,Olahan hasil laut,68,4
+68400000,2,1,2,3,Produksi,Olahan hasil laut,68,5
+14900000,3,1,2,2,Produksi,Olahan hasil laut,68,6
+197200000,2,1,2,2,Produksi,Olahan hasil laut,68,7
+12000000,2,1,2,2,Produksi,Olahan hasil laut,68,8
+61900000,2,1,2,2,Produksi,Olahan hasil laut,68,9
+61200000,1,2,3,2,Produksi,Olahan hasil laut,68,10
+10100000,2,1,3,2,Produksi,Olahan hasil laut,68,11
+10200000,2,1,2,2,Produksi,Olahan hasil laut,68,12
+28900000,2,2,2,1,Produksi,Olahan hasil laut,68,13
+124800000,2,1,2,3,Produksi,Olahan hasil laut,68,14
+10000000,2,1,2,1,Produksi,Olahan hasil laut,68,15
+18000000,2,1,2,3,Produksi,Olahan hasil laut,68,16
+33600000,2,1,3,3,Produksi,Olahan hasil laut,68,17
+63100000,2,2,2,3,Produksi,Olahan hasil laut,68,18
+10200000,2,2,1,2,Produksi,Olahan hasil laut,68,19
+16200000,2,1,2,2,Produksi,Olahan hasil laut,68,20
+17500000,2,2,2,2,Produksi,Produksi roti,69,1
+42600000,1,1,2,1,Produksi,Produksi roti,69,2
+79100000,1,1,3,2,Produksi,Produksi roti,69,3
+49300000,2,1,1,3,Produksi,Produksi roti,69,4
+29000000,2,1,2,2,Produksi,Produksi roti,69,5
+18200000,2,1,2,2,Produksi,Produksi roti,69,6
+39900000,2,1,2,2,Produksi,Produksi roti,69,7
+52900000,3,2,2,2,Produksi,Produksi roti,69,8
+15300000,3,1,2,3,Produksi,Produksi roti,69,9
+18900000,3,1,2,1,Produksi,Produksi roti,69,10
+23400000,3,2,2,2,Produksi,Produksi roti,69,11
+18000000,2,2,2,2,Produksi,Produksi roti,69,12
+16700000,2,2,3,2,Produksi,Produksi roti,69,13
+37900000,2,1,2,2,Produksi,Produksi roti,69,14
+83400000,2,1,2,2,Produksi,Produksi roti,69,15
+34800000,1,1,1,2,Produksi,Produksi roti,69,16
+18700000,2,1,2,2,Produksi,Produksi roti,69,17
+31100000,2,1,2,2,Produksi,Produksi roti,69,18
+34900000,3,1,3,1,Produksi,Produksi roti,69,19
+28700000,3,1,2,2,Produksi,Produksi roti,69,20
+80000000,2,1,3,3,Produksi,Produksi kue kering,70,1
+13700000,2,1,2,3,Produksi,Produksi kue kering,70,2
+10300000,2,1,2,2,Produksi,Produksi kue kering,70,3
+5900000,2,1,3,2,Produksi,Produksi kue kering,70,4
+11000000,1,1,3,2,Produksi,Produksi kue kering,70,5
+7400000,2,1,1,2,Produksi,Produksi kue kering,70,6
+71900000,2,2,3,2,Produksi,Produksi kue kering,70,7
+5500000,2,2,2,2,Produksi,Produksi kue kering,70,8
+6500000,3,1,2,1,Produksi,Produksi kue kering,70,9
+118500000,2,2,3,1,Produksi,Produksi kue kering,70,10
+73300000,2,1,2,2,Produksi,Produksi kue kering,70,11
+16200000,2,2,2,3,Produksi,Produksi kue kering,70,12
+19000000,2,1,2,2,Produksi,Produksi kue kering,70,13
+37100000,2,1,2,2,Produksi,Produksi kue kering,70,14
+8800000,2,3,3,2,Produksi,Produksi kue kering,70,15
+36700000,2,2,2,2,Produksi,Produksi kue kering,70,16
+69900000,2,1,2,2,Produksi,Produksi kue kering,70,17
+66500000,2,1,2,2,Produksi,Produksi kue kering,70,18
+6000000,2,2,2,2,Produksi,Produksi kue kering,70,19
+7800000,3,2,2,2,Produksi,Produksi kue kering,70,20
+30700000,2,1,1,2,Produksi,Produksi minuman herbal,71,1
+33100000,2,1,2,2,Produksi,Produksi minuman herbal,71,2
+15100000,3,2,2,2,Produksi,Produksi minuman herbal,71,3
+19500000,3,2,2,3,Produksi,Produksi minuman herbal,71,4
+10700000,3,1,2,2,Produksi,Produksi minuman herbal,71,5
+8200000,2,1,2,2,Produksi,Produksi minuman herbal,71,6
+8400000,2,1,2,2,Produksi,Produksi minuman herbal,71,7
+36400000,2,2,2,3,Produksi,Produksi minuman herbal,71,8
+164700000,2,2,3,2,Produksi,Produksi minuman herbal,71,9
+23900000,2,1,2,3,Produksi,Produksi minuman herbal,71,10
+15900000,2,2,2,3,Produksi,Produksi minuman herbal,71,11
+32100000,3,2,2,2,Produksi,Produksi minuman herbal,71,12
+26400000,2,1,2,3,Produksi,Produksi minuman herbal,71,13
+124800000,2,2,2,2,Produksi,Produksi minuman herbal,71,14
+13800000,3,2,2,2,Produksi,Produksi minuman herbal,71,15
+6300000,2,1,2,3,Produksi,Produksi minuman herbal,71,16
+8100000,2,2,1,2,Produksi,Produksi minuman herbal,71,17
+65900000,2,1,2,2,Produksi,Produksi minuman herbal,71,18
+15300000,1,1,2,2,Produksi,Produksi minuman herbal,71,19
+68000000,2,1,2,2,Produksi,Produksi minuman herbal,71,20
+11600000,2,1,2,2,Produksi,Produksi kerupuk,72,1
+17600000,2,1,2,2,Produksi,Produksi kerupuk,72,2
+10800000,2,1,2,2,Produksi,Produksi kerupuk,72,3
+13400000,3,2,2,2,Produksi,Produksi kerupuk,72,4
+21500000,2,1,2,2,Produksi,Produksi kerupuk,72,5
+43600000,2,1,2,2,Produksi,Produksi kerupuk,72,6
+82800000,2,1,2,2,Produksi,Produksi kerupuk,72,7
+10500000,2,1,1,3,Produksi,Produksi kerupuk,72,8
+102700000,2,1,2,2,Produksi,Produksi kerupuk,72,9
+193200000,2,1,2,3,Produksi,Produksi kerupuk,72,10
+176600000,1,2,2,2,Produksi,Produksi kerupuk,72,11
+28400000,2,1,2,2,Produksi,Produksi kerupuk,72,12
+13200000,2,2,2,2,Produksi,Produksi kerupuk,72,13
+23700000,3,1,2,2,Produksi,Produksi kerupuk,72,14
+101700000,2,1,2,2,Produksi,Produksi kerupuk,72,15
+27200000,2,2,2,3,Produksi,Produksi kerupuk,72,16
+26500000,2,1,3,1,Produksi,Produksi kerupuk,72,17
+59800000,2,2,2,2,Produksi,Produksi kerupuk,72,18
+21800000,3,2,2,3,Produksi,Produksi kerupuk,72,19
+19500000,2,1,2,1,Produksi,Produksi kerupuk,72,20
+9700000,2,1,3,2,Produksi,Produksi tempe,73,1
+15200000,2,1,2,2,Produksi,Produksi tempe,73,2
+14100000,2,1,1,2,Produksi,Produksi tempe,73,3
+14200000,2,2,2,2,Produksi,Produksi tempe,73,4
+180500000,2,1,2,2,Produksi,Produksi tempe,73,5
+15700000,3,1,2,2,Produksi,Produksi tempe,73,6
+18800000,2,1,3,2,Produksi,Produksi tempe,73,7
+23100000,3,1,2,2,Produksi,Produksi tempe,73,8
+20000000,2,1,2,2,Produksi,Produksi tempe,73,9
+153500000,2,2,2,2,Produksi,Produksi tempe,73,10
+18400000,2,1,2,2,Produksi,Produksi tempe,73,11
+24400000,3,1,2,2,Produksi,Produksi tempe,73,12
+113100000,2,1,2,2,Produksi,Produksi tempe,73,13
+20400000,2,1,2,2,Produksi,Produksi tempe,73,14
+143300000,3,2,2,2,Produksi,Produksi tempe,73,15
+156800000,2,2,1,2,Produksi,Produksi tempe,73,16
+106400000,2,1,2,2,Produksi,Produksi tempe,73,17
+22800000,3,1,2,2,Produksi,Produksi tempe,73,18
+39300000,2,1,3,2,Produksi,Produksi tempe,73,19
+120400000,2,1,2,2,Produksi,Produksi tempe,73,20
+31300000,2,1,2,3,Produksi,Produksi tahu,74,1
+155200000,2,3,2,1,Produksi,Produksi tahu,74,2
+35100000,3,1,2,3,Produksi,Produksi tahu,74,3
+154700000,2,2,2,1,Produksi,Produksi tahu,74,4
+37900000,2,2,2,2,Produksi,Produksi tahu,74,5
+56500000,2,1,1,3,Produksi,Produksi tahu,74,6
+21000000,3,1,1,2,Produksi,Produksi tahu,74,7
+60700000,1,1,2,2,Produksi,Produksi tahu,74,8
+18400000,1,1,2,3,Produksi,Produksi tahu,74,9
+95900000,2,1,2,2,Produksi,Produksi tahu,74,10
+102400000,2,3,2,2,Produksi,Produksi tahu,74,11
+57300000,2,1,2,2,Produksi,Produksi tahu,74,12
+23000000,2,2,3,2,Produksi,Produksi tahu,74,13
+28600000,3,1,3,2,Produksi,Produksi tahu,74,14
+17200000,2,1,2,2,Produksi,Produksi tahu,74,15
+38700000,1,1,3,3,Produksi,Produksi tahu,74,16
+39400000,1,1,2,2,Produksi,Produksi tahu,74,17
+39700000,1,1,1,2,Produksi,Produksi tahu,74,18
+39300000,1,1,2,2,Produksi,Produksi tahu,74,19
+36400000,2,1,2,2,Produksi,Produksi tahu,74,20
+60900000,1,1,2,2,Produksi,Produksi frozen food,75,1
+36100000,1,2,2,2,Produksi,Produksi frozen food,75,2
+92100000,2,1,2,2,Produksi,Produksi frozen food,75,3
+11600000,1,1,2,2,Produksi,Produksi frozen food,75,4
+10900000,1,1,2,2,Produksi,Produksi frozen food,75,5
+109400000,2,2,1,2,Produksi,Produksi frozen food,75,6
+92400000,2,1,2,2,Produksi,Produksi frozen food,75,7
+20100000,2,1,2,2,Produksi,Produksi frozen food,75,8
+187900000,1,1,3,1,Produksi,Produksi frozen food,75,9
+179000000,2,2,2,2,Produksi,Produksi frozen food,75,10
+10700000,2,1,2,2,Produksi,Produksi frozen food,75,11
+26600000,2,1,2,2,Produksi,Produksi frozen food,75,12
+16800000,2,2,2,2,Produksi,Produksi frozen food,75,13
+31300000,2,1,2,2,Produksi,Produksi frozen food,75,14
+25800000,2,1,2,2,Produksi,Produksi frozen food,75,15
+79300000,2,1,2,2,Produksi,Produksi frozen food,75,16
+156500000,3,1,2,2,Produksi,Produksi frozen food,75,17
+19900000,2,1,2,2,Produksi,Produksi frozen food,75,18
+159200000,3,2,2,2,Produksi,Produksi frozen food,75,19
+57600000,2,1,2,2,Produksi,Produksi frozen food,75,20
+151100000,2,1,2,2,Produksi,Produksi abon,76,1
+20400000,3,1,2,1,Produksi,Produksi abon,76,2
+13900000,2,1,2,2,Produksi,Produksi abon,76,3
+30400000,2,1,3,2,Produksi,Produksi abon,76,4
+8800000,2,1,2,2,Produksi,Produksi abon,76,5
+22400000,2,1,2,2,Produksi,Produksi abon,76,6
+10500000,2,1,2,3,Produksi,Produksi abon,76,7
+11700000,2,3,2,2,Produksi,Produksi abon,76,8
+11500000,2,1,2,3,Produksi,Produksi abon,76,9
+45200000,1,2,2,2,Produksi,Produksi abon,76,10
+62300000,1,1,3,1,Produksi,Produksi abon,76,11
+8400000,2,1,2,3,Produksi,Produksi abon,76,12
+14500000,1,1,1,2,Produksi,Produksi abon,76,13
+17000000,3,2,2,2,Produksi,Produksi abon,76,14
+15900000,2,2,3,2,Produksi,Produksi abon,76,15
+185900000,3,2,2,2,Produksi,Produksi abon,76,16
+81700000,2,1,3,1,Produksi,Produksi abon,76,17
+40200000,2,2,2,2,Produksi,Produksi abon,76,18
+9200000,1,1,3,2,Produksi,Produksi abon,76,19
+146600000,2,2,2,2,Produksi,Produksi abon,76,20
+9900000,1,1,3,2,Produksi,Produksi sambal,77,1
+14500000,2,1,3,2,Produksi,Produksi sambal,77,2
+10400000,2,1,2,3,Produksi,Produksi sambal,77,3
+6800000,2,2,2,2,Produksi,Produksi sambal,77,4
+117400000,2,2,2,2,Produksi,Produksi sambal,77,5
+9300000,2,1,3,2,Produksi,Produksi sambal,77,6
+18900000,2,1,2,2,Produksi,Produksi sambal,77,7
+22300000,2,1,2,2,Produksi,Produksi sambal,77,8
+72500000,1,1,2,2,Produksi,Produksi sambal,77,9
+13400000,3,1,2,3,Produksi,Produksi sambal,77,10
+16000000,3,1,2,3,Produksi,Produksi sambal,77,11
+11600000,3,3,2,3,Produksi,Produksi sambal,77,12
+14300000,1,1,2,1,Produksi,Produksi sambal,77,13
+12600000,2,1,2,2,Produksi,Produksi sambal,77,14
+5000000,2,2,2,1,Produksi,Produksi sambal,77,15
+33500000,2,1,2,2,Produksi,Produksi sambal,77,16
+9100000,1,1,2,2,Produksi,Produksi sambal,77,17
+177700000,2,1,2,2,Produksi,Produksi sambal,77,18
+8100000,3,1,2,2,Produksi,Produksi sambal,77,19
+10800000,2,1,3,2,Produksi,Produksi sambal,77,20
+25100000,2,2,3,1,Produksi,Produksi pakaian,78,1
+127000000,2,2,2,2,Produksi,Produksi pakaian,78,2
+51400000,2,2,2,2,Produksi,Produksi pakaian,78,3
+25700000,2,2,1,2,Produksi,Produksi pakaian,78,4
+35900000,2,1,2,3,Produksi,Produksi pakaian,78,5
+20100000,3,1,2,3,Produksi,Produksi pakaian,78,6
+27000000,2,1,2,2,Produksi,Produksi pakaian,78,7
+36900000,2,1,2,2,Produksi,Produksi pakaian,78,8
+63600000,2,1,3,2,Produksi,Produksi pakaian,78,9
+74600000,2,1,2,2,Produksi,Produksi pakaian,78,10
+22900000,2,1,2,3,Produksi,Produksi pakaian,78,11
+80600000,2,1,2,2,Produksi,Produksi pakaian,78,12
+46100000,2,2,3,2,Produksi,Produksi pakaian,78,13
+33300000,2,2,3,2,Produksi,Produksi pakaian,78,14
+31000000,2,1,2,2,Produksi,Produksi pakaian,78,15
+70700000,2,1,3,3,Produksi,Produksi pakaian,78,16
+30400000,2,2,1,2,Produksi,Produksi pakaian,78,17
+114400000,2,1,3,2,Produksi,Produksi pakaian,78,18
+41200000,2,2,1,2,Produksi,Produksi pakaian,78,19
+26700000,2,1,2,2,Produksi,Produksi pakaian,78,20
+8400000,3,1,2,2,Produksi,Produksi tas handmade,79,1
+21300000,3,1,2,2,Produksi,Produksi tas handmade,79,2
+24200000,2,1,2,3,Produksi,Produksi tas handmade,79,3
+72400000,3,1,2,3,Produksi,Produksi tas handmade,79,4
+15700000,2,1,2,2,Produksi,Produksi tas handmade,79,5
+97300000,2,1,2,2,Produksi,Produksi tas handmade,79,6
+66100000,2,1,2,2,Produksi,Produksi tas handmade,79,7
+8200000,2,2,2,2,Produksi,Produksi tas handmade,79,8
+45400000,2,1,2,2,Produksi,Produksi tas handmade,79,9
+13700000,2,1,2,2,Produksi,Produksi tas handmade,79,10
+11100000,2,1,2,2,Produksi,Produksi tas handmade,79,11
+159900000,2,1,2,2,Produksi,Produksi tas handmade,79,12
+191300000,2,1,2,2,Produksi,Produksi tas handmade,79,13
+13900000,2,1,1,2,Produksi,Produksi tas handmade,79,14
+23500000,2,1,2,2,Produksi,Produksi tas handmade,79,15
+14200000,2,1,2,1,Produksi,Produksi tas handmade,79,16
+46600000,2,1,2,2,Produksi,Produksi tas handmade,79,17
+9800000,2,1,2,2,Produksi,Produksi tas handmade,79,18
+25900000,2,1,2,3,Produksi,Produksi tas handmade,79,19
+107000000,3,2,2,2,Produksi,Produksi tas handmade,79,20
+119600000,3,2,2,3,Produksi,Produksi lilin aromaterapi,80,1
+12700000,2,1,2,2,Produksi,Produksi lilin aromaterapi,80,2
+71600000,2,2,2,2,Produksi,Produksi lilin aromaterapi,80,3
+16100000,2,1,2,2,Produksi,Produksi lilin aromaterapi,80,4
+9200000,1,1,2,2,Produksi,Produksi lilin aromaterapi,80,5
+164600000,3,1,1,2,Produksi,Produksi lilin aromaterapi,80,6
+7100000,2,1,3,2,Produksi,Produksi lilin aromaterapi,80,7
+4900000,2,1,2,2,Produksi,Produksi lilin aromaterapi,80,8
+67100000,2,1,2,2,Produksi,Produksi lilin aromaterapi,80,9
+21000000,2,1,2,1,Produksi,Produksi lilin aromaterapi,80,10
+6700000,1,1,2,3,Produksi,Produksi lilin aromaterapi,80,11
+14900000,1,1,1,3,Produksi,Produksi lilin aromaterapi,80,12
+5800000,1,1,1,3,Produksi,Produksi lilin aromaterapi,80,13
+13900000,2,2,2,3,Produksi,Produksi lilin aromaterapi,80,14
+6600000,2,1,2,2,Produksi,Produksi lilin aromaterapi,80,15
+43100000,2,2,2,2,Produksi,Produksi lilin aromaterapi,80,16
+10100000,2,1,2,2,Produksi,Produksi lilin aromaterapi,80,17
+9700000,3,1,2,2,Produksi,Produksi lilin aromaterapi,80,18
+4200000,2,1,2,2,Produksi,Produksi lilin aromaterapi,80,19
+8600000,2,2,2,2,Produksi,Produksi lilin aromaterapi,80,20
+167100000,2,1,2,3,Pertanian/Peternakan,Budidaya sayur,81,1
+8900000,2,1,1,2,Pertanian/Peternakan,Budidaya sayur,81,2
+178100000,2,1,2,2,Pertanian/Peternakan,Budidaya sayur,81,3
+8800000,1,1,1,3,Pertanian/Peternakan,Budidaya sayur,81,4
+88600000,2,3,1,3,Pertanian/Peternakan,Budidaya sayur,81,5
+153700000,2,1,1,2,Pertanian/Peternakan,Budidaya sayur,81,6
+9200000,3,1,2,2,Pertanian/Peternakan,Budidaya sayur,81,7
+22600000,3,1,1,3,Pertanian/Peternakan,Budidaya sayur,81,8
+46100000,3,2,1,2,Pertanian/Peternakan,Budidaya sayur,81,9
+11700000,2,2,1,1,Pertanian/Peternakan,Budidaya sayur,81,10
+21400000,2,1,1,3,Pertanian/Peternakan,Budidaya sayur,81,11
+9500000,2,1,1,2,Pertanian/Peternakan,Budidaya sayur,81,12
+14300000,2,1,1,1,Pertanian/Peternakan,Budidaya sayur,81,13
+103200000,2,1,1,2,Pertanian/Peternakan,Budidaya sayur,81,14
+6000000,2,1,2,2,Pertanian/Peternakan,Budidaya sayur,81,15
+14400000,2,1,2,1,Pertanian/Peternakan,Budidaya sayur,81,16
+17100000,2,1,1,2,Pertanian/Peternakan,Budidaya sayur,81,17
+142000000,1,1,1,3,Pertanian/Peternakan,Budidaya sayur,81,18
+41300000,2,3,1,2,Pertanian/Peternakan,Budidaya sayur,81,19
+88000000,2,1,1,2,Pertanian/Peternakan,Budidaya sayur,81,20
+39800000,3,2,1,3,Pertanian/Peternakan,Tanaman hias,82,1
+9300000,2,1,1,3,Pertanian/Peternakan,Tanaman hias,82,2
+17000000,2,1,1,3,Pertanian/Peternakan,Tanaman hias,82,3
+90100000,3,2,1,2,Pertanian/Peternakan,Tanaman hias,82,4
+6000000,3,1,1,2,Pertanian/Peternakan,Tanaman hias,82,5
+25200000,1,1,2,2,Pertanian/Peternakan,Tanaman hias,82,6
+131000000,2,2,1,2,Pertanian/Peternakan,Tanaman hias,82,7
+5700000,2,1,3,2,Pertanian/Peternakan,Tanaman hias,82,8
+61600000,2,2,1,2,Pertanian/Peternakan,Tanaman hias,82,9
+15600000,2,2,1,2,Pertanian/Peternakan,Tanaman hias,82,10
+7100000,3,3,1,2,Pertanian/Peternakan,Tanaman hias,82,11
+5500000,3,1,1,2,Pertanian/Peternakan,Tanaman hias,82,12
+6100000,2,2,2,2,Pertanian/Peternakan,Tanaman hias,82,13
+9200000,2,1,2,2,Pertanian/Peternakan,Tanaman hias,82,14
+5100000,3,1,1,3,Pertanian/Peternakan,Tanaman hias,82,15
+8700000,3,1,1,2,Pertanian/Peternakan,Tanaman hias,82,16
+16100000,2,3,2,2,Pertanian/Peternakan,Tanaman hias,82,17
+29600000,3,1,2,2,Pertanian/Peternakan,Tanaman hias,82,18
+145800000,2,1,2,3,Pertanian/Peternakan,Tanaman hias,82,19
+118000000,2,2,1,3,Pertanian/Peternakan,Tanaman hias,82,20
+76200000,3,2,1,2,Pertanian/Peternakan,Ternak ayam,83,1
+22400000,2,1,2,2,Pertanian/Peternakan,Ternak ayam,83,2
+189400000,3,1,1,3,Pertanian/Peternakan,Ternak ayam,83,3
+43500000,2,2,1,2,Pertanian/Peternakan,Ternak ayam,83,4
+41100000,1,2,1,2,Pertanian/Peternakan,Ternak ayam,83,5
+48600000,3,2,1,2,Pertanian/Peternakan,Ternak ayam,83,6
+186700000,1,1,2,1,Pertanian/Peternakan,Ternak ayam,83,7
+37100000,2,2,1,2,Pertanian/Peternakan,Ternak ayam,83,8
+29400000,2,1,2,3,Pertanian/Peternakan,Ternak ayam,83,9
+146500000,3,1,1,2,Pertanian/Peternakan,Ternak ayam,83,10
+46000000,3,3,1,2,Pertanian/Peternakan,Ternak ayam,83,11
+47600000,2,1,2,2,Pertanian/Peternakan,Ternak ayam,83,12
+113100000,1,1,1,3,Pertanian/Peternakan,Ternak ayam,83,13
+15400000,2,1,1,2,Pertanian/Peternakan,Ternak ayam,83,14
+43300000,2,1,1,2,Pertanian/Peternakan,Ternak ayam,83,15
+17500000,2,1,2,3,Pertanian/Peternakan,Ternak ayam,83,16
+44100000,3,1,3,3,Pertanian/Peternakan,Ternak ayam,83,17
+53000000,2,1,2,2,Pertanian/Peternakan,Ternak ayam,83,18
+30600000,2,1,2,3,Pertanian/Peternakan,Ternak ayam,83,19
+20600000,2,1,1,2,Pertanian/Peternakan,Ternak ayam,83,20
+21100000,2,2,2,2,Pertanian/Peternakan,Ternak ikan,84,1
+191200000,1,1,2,3,Pertanian/Peternakan,Ternak ikan,84,2
+43200000,2,3,1,1,Pertanian/Peternakan,Ternak ikan,84,3
+24100000,1,3,1,3,Pertanian/Peternakan,Ternak ikan,84,4
+47600000,1,1,2,3,Pertanian/Peternakan,Ternak ikan,84,5
+67300000,2,1,1,2,Pertanian/Peternakan,Ternak ikan,84,6
+155200000,2,1,2,2,Pertanian/Peternakan,Ternak ikan,84,7
+134500000,2,1,1,2,Pertanian/Peternakan,Ternak ikan,84,8
+17300000,2,3,1,2,Pertanian/Peternakan,Ternak ikan,84,9
+59800000,2,3,3,2,Pertanian/Peternakan,Ternak ikan,84,10
+77400000,2,3,3,2,Pertanian/Peternakan,Ternak ikan,84,11
+18100000,3,1,1,3,Pertanian/Peternakan,Ternak ikan,84,12
+123500000,2,2,1,2,Pertanian/Peternakan,Ternak ikan,84,13
+37900000,2,1,1,2,Pertanian/Peternakan,Ternak ikan,84,14
+57500000,2,2,1,2,Pertanian/Peternakan,Ternak ikan,84,15
+132900000,2,1,1,2,Pertanian/Peternakan,Ternak ikan,84,16
+32900000,2,1,2,3,Pertanian/Peternakan,Ternak ikan,84,17
+155300000,2,1,3,3,Pertanian/Peternakan,Ternak ikan,84,18
+39500000,2,1,1,2,Pertanian/Peternakan,Ternak ikan,84,19
+18400000,2,1,1,2,Pertanian/Peternakan,Ternak ikan,84,20
+65400000,2,2,2,2,Pertanian/Peternakan,Ternak kambing,85,1
+89900000,1,1,1,2,Pertanian/Peternakan,Ternak kambing,85,2
+99500000,3,1,3,2,Pertanian/Peternakan,Ternak kambing,85,3
+34200000,2,1,1,2,Pertanian/Peternakan,Ternak kambing,85,4
+157100000,2,1,1,3,Pertanian/Peternakan,Ternak kambing,85,5
+45500000,2,1,3,3,Pertanian/Peternakan,Ternak kambing,85,6
+72700000,2,1,1,3,Pertanian/Peternakan,Ternak kambing,85,7
+41700000,1,1,2,3,Pertanian/Peternakan,Ternak kambing,85,8
+49600000,1,2,2,2,Pertanian/Peternakan,Ternak kambing,85,9
+85900000,3,1,2,2,Pertanian/Peternakan,Ternak kambing,85,10
+132400000,2,1,1,1,Pertanian/Peternakan,Ternak kambing,85,11
+108300000,2,1,1,2,Pertanian/Peternakan,Ternak kambing,85,12
+127200000,2,1,2,2,Pertanian/Peternakan,Ternak kambing,85,13
+74500000,2,1,2,3,Pertanian/Peternakan,Ternak kambing,85,14
+151800000,1,1,1,2,Pertanian/Peternakan,Ternak kambing,85,15
+123500000,1,2,2,1,Pertanian/Peternakan,Ternak kambing,85,16
+90400000,3,2,1,3,Pertanian/Peternakan,Ternak kambing,85,17
+30300000,3,1,1,2,Pertanian/Peternakan,Ternak kambing,85,18
+107400000,2,2,1,3,Pertanian/Peternakan,Ternak kambing,85,19
+106100000,2,1,1,2,Pertanian/Peternakan,Ternak kambing,85,20
+39500000,2,2,2,3,Pertanian/Peternakan,Hidroponik,86,1
+25500000,3,1,2,3,Pertanian/Peternakan,Hidroponik,86,2
+47100000,3,3,1,3,Pertanian/Peternakan,Hidroponik,86,3
+42400000,2,2,1,3,Pertanian/Peternakan,Hidroponik,86,4
+27600000,3,3,1,3,Pertanian/Peternakan,Hidroponik,86,5
+167700000,3,1,2,3,Pertanian/Peternakan,Hidroponik,86,6
+43200000,1,1,1,2,Pertanian/Peternakan,Hidroponik,86,7
+31500000,3,1,1,3,Pertanian/Peternakan,Hidroponik,86,8
+104200000,3,3,1,3,Pertanian/Peternakan,Hidroponik,86,9
+33400000,3,1,1,2,Pertanian/Peternakan,Hidroponik,86,10
+21500000,2,1,2,3,Pertanian/Peternakan,Hidroponik,86,11
+46800000,2,1,2,1,Pertanian/Peternakan,Hidroponik,86,12
+38000000,1,1,1,1,Pertanian/Peternakan,Hidroponik,86,13
+37500000,2,1,1,3,Pertanian/Peternakan,Hidroponik,86,14
+43400000,3,2,3,2,Pertanian/Peternakan,Hidroponik,86,15
+20200000,1,1,1,2,Pertanian/Peternakan,Hidroponik,86,16
+45400000,1,1,2,2,Pertanian/Peternakan,Hidroponik,86,17
+194800000,3,1,3,2,Pertanian/Peternakan,Hidroponik,86,18
+130000000,2,2,1,2,Pertanian/Peternakan,Hidroponik,86,19
+56500000,2,2,1,2,Pertanian/Peternakan,Hidroponik,86,20
+96600000,2,2,3,3,Pertanian/Peternakan,Perkebunan kecil,87,1
+68900000,3,1,2,1,Pertanian/Peternakan,Perkebunan kecil,87,2
+189300000,3,1,1,3,Pertanian/Peternakan,Perkebunan kecil,87,3
+31400000,2,1,1,1,Pertanian/Peternakan,Perkebunan kecil,87,4
+59700000,3,1,2,1,Pertanian/Peternakan,Perkebunan kecil,87,5
+30600000,2,1,1,2,Pertanian/Peternakan,Perkebunan kecil,87,6
+10500000,1,1,2,2,Pertanian/Peternakan,Perkebunan kecil,87,7
+24300000,2,1,2,1,Pertanian/Peternakan,Perkebunan kecil,87,8
+23100000,1,1,1,2,Pertanian/Peternakan,Perkebunan kecil,87,9
+80600000,1,1,1,2,Pertanian/Peternakan,Perkebunan kecil,87,10
+69200000,2,3,2,2,Pertanian/Peternakan,Perkebunan kecil,87,11
+106900000,3,1,1,1,Pertanian/Peternakan,Perkebunan kecil,87,12
+29800000,2,1,1,2,Pertanian/Peternakan,Perkebunan kecil,87,13
+49700000,2,1,2,2,Pertanian/Peternakan,Perkebunan kecil,87,14
+117900000,1,1,1,1,Pertanian/Peternakan,Perkebunan kecil,87,15
+15600000,1,1,1,3,Pertanian/Peternakan,Perkebunan kecil,87,16
+48900000,2,2,1,2,Pertanian/Peternakan,Perkebunan kecil,87,17
+16600000,2,2,1,2,Pertanian/Peternakan,Perkebunan kecil,87,18
+197300000,2,3,2,1,Pertanian/Peternakan,Perkebunan kecil,87,19
+95500000,2,1,1,2,Pertanian/Peternakan,Perkebunan kecil,87,20
+10600000,2,1,1,2,Pertanian/Peternakan,Budidaya cabai,88,1
+13500000,1,1,2,2,Pertanian/Peternakan,Budidaya cabai,88,2
+130000000,1,1,1,2,Pertanian/Peternakan,Budidaya cabai,88,3
+20500000,2,1,1,2,Pertanian/Peternakan,Budidaya cabai,88,4
+123100000,2,2,1,2,Pertanian/Peternakan,Budidaya cabai,88,5
+73800000,2,3,3,2,Pertanian/Peternakan,Budidaya cabai,88,6
+20500000,2,1,1,3,Pertanian/Peternakan,Budidaya cabai,88,7
+15700000,3,1,1,2,Pertanian/Peternakan,Budidaya cabai,88,8
+20500000,2,1,2,1,Pertanian/Peternakan,Budidaya cabai,88,9
+26400000,3,1,1,2,Pertanian/Peternakan,Budidaya cabai,88,10
+23900000,1,1,1,1,Pertanian/Peternakan,Budidaya cabai,88,11
+12900000,3,3,2,3,Pertanian/Peternakan,Budidaya cabai,88,12
+109700000,2,1,1,1,Pertanian/Peternakan,Budidaya cabai,88,13
+169900000,2,1,3,2,Pertanian/Peternakan,Budidaya cabai,88,14
+54500000,2,1,2,2,Pertanian/Peternakan,Budidaya cabai,88,15
+12100000,2,1,3,2,Pertanian/Peternakan,Budidaya cabai,88,16
+116900000,3,2,2,2,Pertanian/Peternakan,Budidaya cabai,88,17
+172500000,2,3,1,2,Pertanian/Peternakan,Budidaya cabai,88,18
+11200000,2,1,1,2,Pertanian/Peternakan,Budidaya cabai,88,19
+24000000,2,1,1,1,Pertanian/Peternakan,Budidaya cabai,88,20
+15800000,1,2,1,3,Pertanian/Peternakan,Budidaya jamur,89,1
+157200000,3,1,2,2,Pertanian/Peternakan,Budidaya jamur,89,2
+30000000,2,1,2,2,Pertanian/Peternakan,Budidaya jamur,89,3
+159800000,3,1,2,2,Pertanian/Peternakan,Budidaya jamur,89,4
+18200000,2,1,1,2,Pertanian/Peternakan,Budidaya jamur,89,5
+16100000,1,2,1,2,Pertanian/Peternakan,Budidaya jamur,89,6
+32100000,2,3,2,2,Pertanian/Peternakan,Budidaya jamur,89,7
+36900000,2,1,1,3,Pertanian/Peternakan,Budidaya jamur,89,8
+25500000,3,2,1,2,Pertanian/Peternakan,Budidaya jamur,89,9
+23000000,3,1,2,3,Pertanian/Peternakan,Budidaya jamur,89,10
+41600000,2,1,1,2,Pertanian/Peternakan,Budidaya jamur,89,11
+89200000,2,3,1,2,Pertanian/Peternakan,Budidaya jamur,89,12
+16100000,2,2,2,2,Pertanian/Peternakan,Budidaya jamur,89,13
+25000000,3,1,2,3,Pertanian/Peternakan,Budidaya jamur,89,14
+23700000,3,2,1,2,Pertanian/Peternakan,Budidaya jamur,89,15
+30800000,2,1,1,2,Pertanian/Peternakan,Budidaya jamur,89,16
+25600000,2,2,2,2,Pertanian/Peternakan,Budidaya jamur,89,17
+19100000,3,3,1,2,Pertanian/Peternakan,Budidaya jamur,89,18
+50500000,3,2,1,2,Pertanian/Peternakan,Budidaya jamur,89,19
+43300000,3,1,2,2,Pertanian/Peternakan,Budidaya jamur,89,20
+68400000,2,1,3,2,Pertanian/Peternakan,Budidaya buah,90,1
+20400000,1,2,1,3,Pertanian/Peternakan,Budidaya buah,90,2
+33200000,2,1,2,1,Pertanian/Peternakan,Budidaya buah,90,3
+17500000,2,1,1,3,Pertanian/Peternakan,Budidaya buah,90,4
+13000000,2,1,1,3,Pertanian/Peternakan,Budidaya buah,90,5
+45300000,3,1,1,2,Pertanian/Peternakan,Budidaya buah,90,6
+13600000,2,2,1,3,Pertanian/Peternakan,Budidaya buah,90,7
+141800000,2,1,2,2,Pertanian/Peternakan,Budidaya buah,90,8
+24100000,2,1,3,2,Pertanian/Peternakan,Budidaya buah,90,9
+52800000,2,1,1,2,Pertanian/Peternakan,Budidaya buah,90,10
+28900000,1,1,2,2,Pertanian/Peternakan,Budidaya buah,90,11
+21900000,2,1,2,2,Pertanian/Peternakan,Budidaya buah,90,12
+132200000,2,1,1,2,Pertanian/Peternakan,Budidaya buah,90,13
+47600000,3,1,1,2,Pertanian/Peternakan,Budidaya buah,90,14
+13200000,3,1,1,2,Pertanian/Peternakan,Budidaya buah,90,15
+14800000,2,2,3,2,Pertanian/Peternakan,Budidaya buah,90,16
+130200000,1,2,1,2,Pertanian/Peternakan,Budidaya buah,90,17
+10900000,1,2,1,3,Pertanian/Peternakan,Budidaya buah,90,18
+81500000,2,1,1,2,Pertanian/Peternakan,Budidaya buah,90,19
+27900000,3,2,1,2,Pertanian/Peternakan,Budidaya buah,90,20
+157000000,2,2,2,3,Pertanian/Peternakan,Peternakan bebek,91,1
+50200000,1,1,1,3,Pertanian/Peternakan,Peternakan bebek,91,2
+85300000,2,2,1,3,Pertanian/Peternakan,Peternakan bebek,91,3
+30900000,2,2,2,2,Pertanian/Peternakan,Peternakan bebek,91,4
+86100000,3,1,2,2,Pertanian/Peternakan,Peternakan bebek,91,5
+135500000,3,1,1,2,Pertanian/Peternakan,Peternakan bebek,91,6
+23700000,2,1,1,2,Pertanian/Peternakan,Peternakan bebek,91,7
+53700000,2,3,1,2,Pertanian/Peternakan,Peternakan bebek,91,8
+134700000,2,1,3,1,Pertanian/Peternakan,Peternakan bebek,91,9
+20200000,1,1,1,3,Pertanian/Peternakan,Peternakan bebek,91,10
+161000000,2,2,1,2,Pertanian/Peternakan,Peternakan bebek,91,11
+41900000,2,1,1,2,Pertanian/Peternakan,Peternakan bebek,91,12
+26000000,1,1,1,2,Pertanian/Peternakan,Peternakan bebek,91,13
+95000000,2,1,1,2,Pertanian/Peternakan,Peternakan bebek,91,14
+165200000,3,1,3,1,Pertanian/Peternakan,Peternakan bebek,91,15
+52900000,2,1,2,3,Pertanian/Peternakan,Peternakan bebek,91,16
+81800000,3,1,3,2,Pertanian/Peternakan,Peternakan bebek,91,17
+112500000,2,2,1,2,Pertanian/Peternakan,Peternakan bebek,91,18
+25700000,3,2,3,2,Pertanian/Peternakan,Peternakan bebek,91,19
+18900000,2,1,1,2,Pertanian/Peternakan,Peternakan bebek,91,20
+85800000,2,1,1,3,Pertanian/Peternakan,Peternakan sapi,92,1
+129700000,2,3,2,2,Pertanian/Peternakan,Peternakan sapi,92,2
+178700000,2,3,1,3,Pertanian/Peternakan,Peternakan sapi,92,3
+94600000,3,3,1,2,Pertanian/Peternakan,Peternakan sapi,92,4
+164800000,2,1,1,2,Pertanian/Peternakan,Peternakan sapi,92,5
+151800000,2,2,2,2,Pertanian/Peternakan,Peternakan sapi,92,6
+48400000,2,1,2,2,Pertanian/Peternakan,Peternakan sapi,92,7
+60200000,2,1,2,2,Pertanian/Peternakan,Peternakan sapi,92,8
+41300000,2,1,1,3,Pertanian/Peternakan,Peternakan sapi,92,9
+47600000,2,3,1,1,Pertanian/Peternakan,Peternakan sapi,92,10
+186600000,2,1,2,3,Pertanian/Peternakan,Peternakan sapi,92,11
+175200000,2,1,2,2,Pertanian/Peternakan,Peternakan sapi,92,12
+191900000,2,1,1,2,Pertanian/Peternakan,Peternakan sapi,92,13
+108800000,1,1,1,2,Pertanian/Peternakan,Peternakan sapi,92,14
+66900000,2,1,3,2,Pertanian/Peternakan,Peternakan sapi,92,15
+134600000,3,1,1,1,Pertanian/Peternakan,Peternakan sapi,92,16
+88800000,2,1,1,2,Pertanian/Peternakan,Peternakan sapi,92,17
+59200000,2,2,1,2,Pertanian/Peternakan,Peternakan sapi,92,18
+193100000,3,2,2,1,Pertanian/Peternakan,Peternakan sapi,92,19
+61300000,2,2,1,2,Pertanian/Peternakan,Peternakan sapi,92,20
+43500000,3,1,2,3,Pertanian/Peternakan,Budidaya lele,93,1
+42400000,2,1,1,3,Pertanian/Peternakan,Budidaya lele,93,2
+18500000,2,1,1,3,Pertanian/Peternakan,Budidaya lele,93,3
+16000000,3,1,1,2,Pertanian/Peternakan,Budidaya lele,93,4
+49200000,2,1,2,2,Pertanian/Peternakan,Budidaya lele,93,5
+32000000,1,1,1,2,Pertanian/Peternakan,Budidaya lele,93,6
+57600000,3,1,1,2,Pertanian/Peternakan,Budidaya lele,93,7
+15000000,1,1,2,2,Pertanian/Peternakan,Budidaya lele,93,8
+10200000,3,1,3,3,Pertanian/Peternakan,Budidaya lele,93,9
+21700000,2,1,3,2,Pertanian/Peternakan,Budidaya lele,93,10
+16700000,3,1,1,2,Pertanian/Peternakan,Budidaya lele,93,11
+42500000,3,1,2,3,Pertanian/Peternakan,Budidaya lele,93,12
+13000000,3,1,3,2,Pertanian/Peternakan,Budidaya lele,93,13
+10900000,2,1,1,2,Pertanian/Peternakan,Budidaya lele,93,14
+17700000,3,1,1,2,Pertanian/Peternakan,Budidaya lele,93,15
+12300000,1,1,1,1,Pertanian/Peternakan,Budidaya lele,93,16
+47500000,1,1,1,2,Pertanian/Peternakan,Budidaya lele,93,17
+21900000,1,1,1,3,Pertanian/Peternakan,Budidaya lele,93,18
+32600000,2,1,1,2,Pertanian/Peternakan,Budidaya lele,93,19
+13000000,3,1,2,1,Pertanian/Peternakan,Budidaya lele,93,20
+49900000,2,1,1,2,Pertanian/Peternakan,Budidaya nila,94,1
+20000000,3,1,1,3,Pertanian/Peternakan,Budidaya nila,94,2
+31200000,2,1,1,2,Pertanian/Peternakan,Budidaya nila,94,3
+26100000,2,1,2,2,Pertanian/Peternakan,Budidaya nila,94,4
+47900000,1,1,2,3,Pertanian/Peternakan,Budidaya nila,94,5
+41200000,2,1,1,3,Pertanian/Peternakan,Budidaya nila,94,6
+16800000,2,1,2,2,Pertanian/Peternakan,Budidaya nila,94,7
+15500000,2,1,2,3,Pertanian/Peternakan,Budidaya nila,94,8
+87400000,2,2,1,3,Pertanian/Peternakan,Budidaya nila,94,9
+22100000,2,1,1,3,Pertanian/Peternakan,Budidaya nila,94,10
+191600000,2,1,1,3,Pertanian/Peternakan,Budidaya nila,94,11
+142100000,1,1,3,3,Pertanian/Peternakan,Budidaya nila,94,12
+15900000,3,1,1,2,Pertanian/Peternakan,Budidaya nila,94,13
+86400000,1,1,1,3,Pertanian/Peternakan,Budidaya nila,94,14
+123100000,3,1,2,2,Pertanian/Peternakan,Budidaya nila,94,15
+30800000,2,1,1,1,Pertanian/Peternakan,Budidaya nila,94,16
+47700000,2,1,1,2,Pertanian/Peternakan,Budidaya nila,94,17
+121200000,1,2,2,1,Pertanian/Peternakan,Budidaya nila,94,18
+48900000,3,1,1,1,Pertanian/Peternakan,Budidaya nila,94,19
+40900000,3,1,1,3,Pertanian/Peternakan,Budidaya nila,94,20
+13000000,3,2,1,2,Pertanian/Peternakan,Pertanian organik,95,1
+132600000,1,1,3,3,Pertanian/Peternakan,Pertanian organik,95,2
+76500000,2,2,1,2,Pertanian/Peternakan,Pertanian organik,95,3
+181500000,2,2,2,2,Pertanian/Peternakan,Pertanian organik,95,4
+29900000,1,1,2,3,Pertanian/Peternakan,Pertanian organik,95,5
+24700000,1,1,1,3,Pertanian/Peternakan,Pertanian organik,95,6
+11500000,3,1,1,1,Pertanian/Peternakan,Pertanian organik,95,7
+13300000,2,2,1,3,Pertanian/Peternakan,Pertanian organik,95,8
+199700000,2,1,1,2,Pertanian/Peternakan,Pertanian organik,95,9
+20100000,1,1,1,2,Pertanian/Peternakan,Pertanian organik,95,10
+22100000,2,2,2,2,Pertanian/Peternakan,Pertanian organik,95,11
+119400000,2,3,1,3,Pertanian/Peternakan,Pertanian organik,95,12
+131700000,1,1,3,2,Pertanian/Peternakan,Pertanian organik,95,13
+64800000,2,1,1,2,Pertanian/Peternakan,Pertanian organik,95,14
+56700000,2,1,2,2,Pertanian/Peternakan,Pertanian organik,95,15
+44500000,3,2,2,3,Pertanian/Peternakan,Pertanian organik,95,16
+15500000,2,1,1,2,Pertanian/Peternakan,Pertanian organik,95,17
+38700000,3,2,1,2,Pertanian/Peternakan,Pertanian organik,95,18
+179800000,1,1,1,2,Pertanian/Peternakan,Pertanian organik,95,19
+13800000,2,1,1,2,Pertanian/Peternakan,Pertanian organik,95,20
+8900000,2,2,3,2,Pertanian/Peternakan,Budidaya tanaman obat,96,1
+23300000,2,1,1,2,Pertanian/Peternakan,Budidaya tanaman obat,96,2
+6200000,3,1,1,2,Pertanian/Peternakan,Budidaya tanaman obat,96,3
+5200000,2,1,1,1,Pertanian/Peternakan,Budidaya tanaman obat,96,4
+12000000,2,3,2,2,Pertanian/Peternakan,Budidaya tanaman obat,96,5
+35100000,3,1,1,2,Pertanian/Peternakan,Budidaya tanaman obat,96,6
+40200000,3,2,1,2,Pertanian/Peternakan,Budidaya tanaman obat,96,7
+23300000,3,2,1,2,Pertanian/Peternakan,Budidaya tanaman obat,96,8
+7400000,3,2,1,3,Pertanian/Peternakan,Budidaya tanaman obat,96,9
+39300000,2,2,1,2,Pertanian/Peternakan,Budidaya tanaman obat,96,10
+102300000,3,3,3,3,Pertanian/Peternakan,Budidaya tanaman obat,96,11
+119000000,3,1,2,2,Pertanian/Peternakan,Budidaya tanaman obat,96,12
+7800000,2,1,2,2,Pertanian/Peternakan,Budidaya tanaman obat,96,13
+58200000,3,1,2,1,Pertanian/Peternakan,Budidaya tanaman obat,96,14
+13600000,3,3,1,2,Pertanian/Peternakan,Budidaya tanaman obat,96,15
+13700000,2,2,2,2,Pertanian/Peternakan,Budidaya tanaman obat,96,16
+35600000,1,1,2,2,Pertanian/Peternakan,Budidaya tanaman obat,96,17
+15300000,1,1,1,2,Pertanian/Peternakan,Budidaya tanaman obat,96,18
+77700000,2,1,1,2,Pertanian/Peternakan,Budidaya tanaman obat,96,19
+157700000,3,2,1,3,Pertanian/Peternakan,Budidaya tanaman obat,96,20
+29400000,2,1,1,2,Pertanian/Peternakan,Budidaya bunga,97,1
+26200000,3,1,1,2,Pertanian/Peternakan,Budidaya bunga,97,2
+37000000,3,3,1,2,Pertanian/Peternakan,Budidaya bunga,97,3
+30000000,3,2,1,3,Pertanian/Peternakan,Budidaya bunga,97,4
+14400000,2,3,2,2,Pertanian/Peternakan,Budidaya bunga,97,5
+133600000,3,2,1,3,Pertanian/Peternakan,Budidaya bunga,97,6
+163700000,3,1,1,2,Pertanian/Peternakan,Budidaya bunga,97,7
+15000000,3,3,1,2,Pertanian/Peternakan,Budidaya bunga,97,8
+13900000,3,3,2,3,Pertanian/Peternakan,Budidaya bunga,97,9
+23900000,3,2,3,2,Pertanian/Peternakan,Budidaya bunga,97,10
+28800000,3,1,1,2,Pertanian/Peternakan,Budidaya bunga,97,11
+40700000,2,1,1,1,Pertanian/Peternakan,Budidaya bunga,97,12
+179700000,2,1,2,3,Pertanian/Peternakan,Budidaya bunga,97,13
+23400000,1,1,1,2,Pertanian/Peternakan,Budidaya bunga,97,14
+25100000,2,2,1,2,Pertanian/Peternakan,Budidaya bunga,97,15
+80000000,2,1,3,2,Pertanian/Peternakan,Budidaya bunga,97,16
+18800000,2,2,1,1,Pertanian/Peternakan,Budidaya bunga,97,17
+131100000,3,3,1,3,Pertanian/Peternakan,Budidaya bunga,97,18
+93200000,2,2,1,2,Pertanian/Peternakan,Budidaya bunga,97,19
+14300000,3,1,3,2,Pertanian/Peternakan,Budidaya bunga,97,20
+62600000,3,1,1,2,Pertanian/Peternakan,Perkebunan kopi,98,1
+125700000,1,1,1,3,Pertanian/Peternakan,Perkebunan kopi,98,2
+144500000,3,3,3,3,Pertanian/Peternakan,Perkebunan kopi,98,3
+44300000,3,2,1,3,Pertanian/Peternakan,Perkebunan kopi,98,4
+44000000,2,1,1,1,Pertanian/Peternakan,Perkebunan kopi,98,5
+60300000,2,2,2,2,Pertanian/Peternakan,Perkebunan kopi,98,6
+175800000,3,2,1,2,Pertanian/Peternakan,Perkebunan kopi,98,7
+121900000,2,2,1,3,Pertanian/Peternakan,Perkebunan kopi,98,8
+152800000,2,1,1,1,Pertanian/Peternakan,Perkebunan kopi,98,9
+15100000,1,1,1,2,Pertanian/Peternakan,Perkebunan kopi,98,10
+18900000,2,1,2,2,Pertanian/Peternakan,Perkebunan kopi,98,11
+24300000,3,3,3,3,Pertanian/Peternakan,Perkebunan kopi,98,12
+163700000,2,1,2,2,Pertanian/Peternakan,Perkebunan kopi,98,13
+70800000,2,1,1,2,Pertanian/Peternakan,Perkebunan kopi,98,14
+58200000,2,1,2,2,Pertanian/Peternakan,Perkebunan kopi,98,15
+20200000,3,1,1,1,Pertanian/Peternakan,Perkebunan kopi,98,16
+48500000,2,1,2,1,Pertanian/Peternakan,Perkebunan kopi,98,17
+184800000,2,1,2,1,Pertanian/Peternakan,Perkebunan kopi,98,18
+156200000,2,1,3,2,Pertanian/Peternakan,Perkebunan kopi,98,19
+35800000,2,2,3,2,Pertanian/Peternakan,Perkebunan kopi,98,20
+73700000,2,1,2,3,Pertanian/Peternakan,Perkebunan kelapa,99,1
+19300000,2,1,1,3,Pertanian/Peternakan,Perkebunan kelapa,99,2
+41700000,3,1,1,1,Pertanian/Peternakan,Perkebunan kelapa,99,3
+38000000,2,1,1,3,Pertanian/Peternakan,Perkebunan kelapa,99,4
+81800000,2,1,3,2,Pertanian/Peternakan,Perkebunan kelapa,99,5
+192800000,2,1,1,2,Pertanian/Peternakan,Perkebunan kelapa,99,6
+28600000,2,1,3,2,Pertanian/Peternakan,Perkebunan kelapa,99,7
+51700000,2,1,1,2,Pertanian/Peternakan,Perkebunan kelapa,99,8
+54300000,1,3,2,2,Pertanian/Peternakan,Perkebunan kelapa,99,9
+114300000,1,1,2,2,Pertanian/Peternakan,Perkebunan kelapa,99,10
+33000000,2,3,2,1,Pertanian/Peternakan,Perkebunan kelapa,99,11
+25000000,3,1,1,2,Pertanian/Peternakan,Perkebunan kelapa,99,12
+59900000,2,1,1,2,Pertanian/Peternakan,Perkebunan kelapa,99,13
+22300000,2,1,1,3,Pertanian/Peternakan,Perkebunan kelapa,99,14
+60600000,2,1,2,2,Pertanian/Peternakan,Perkebunan kelapa,99,15
+150200000,2,1,1,3,Pertanian/Peternakan,Perkebunan kelapa,99,16
+153400000,2,2,1,2,Pertanian/Peternakan,Perkebunan kelapa,99,17
+31000000,2,1,2,2,Pertanian/Peternakan,Perkebunan kelapa,99,18
+32100000,2,1,2,2,Pertanian/Peternakan,Perkebunan kelapa,99,19
+22900000,2,1,1,2,Pertanian/Peternakan,Perkebunan kelapa,99,20
+120000000,2,1,1,2,Pertanian/Peternakan,Perkebunan pisang,100,1
+51900000,3,2,2,3,Pertanian/Peternakan,Perkebunan pisang,100,2
+34300000,2,1,1,3,Pertanian/Peternakan,Perkebunan pisang,100,3
+39200000,3,1,1,3,Pertanian/Peternakan,Perkebunan pisang,100,4
+13400000,1,3,2,2,Pertanian/Peternakan,Perkebunan pisang,100,5
+76400000,3,2,2,2,Pertanian/Peternakan,Perkebunan pisang,100,6
+74100000,1,1,1,3,Pertanian/Peternakan,Perkebunan pisang,100,7
+18100000,1,1,1,3,Pertanian/Peternakan,Perkebunan pisang,100,8
+21200000,2,1,1,3,Pertanian/Peternakan,Perkebunan pisang,100,9
+143500000,3,1,1,1,Pertanian/Peternakan,Perkebunan pisang,100,10
+19600000,3,1,1,2,Pertanian/Peternakan,Perkebunan pisang,100,11
+14000000,3,1,1,2,Pertanian/Peternakan,Perkebunan pisang,100,12
+151700000,2,1,3,2,Pertanian/Peternakan,Perkebunan pisang,100,13
+51200000,3,1,1,3,Pertanian/Peternakan,Perkebunan pisang,100,14
+10400000,2,1,3,2,Pertanian/Peternakan,Perkebunan pisang,100,15
+18600000,2,1,1,3,Pertanian/Peternakan,Perkebunan pisang,100,16
+20900000,2,1,1,1,Pertanian/Peternakan,Perkebunan pisang,100,17
+37300000,1,1,2,2,Pertanian/Peternakan,Perkebunan pisang,100,18
+40600000,3,1,3,2,Pertanian/Peternakan,Perkebunan pisang,100,19
+120900000,3,1,1,3,Pertanian/Peternakan,Perkebunan pisang,100,20

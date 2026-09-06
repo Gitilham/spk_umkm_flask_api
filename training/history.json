@@ -1,0 +1,161 @@
+[
+  {
+    "model_id": "20260828_055728_d38fd3",
+    "status": "active",
+    "created_at": "2026-08-28T05:57:28+00:00",
+    "dataset_name": "dataset_umkm_v4_3_final_audit_2000.csv",
+    "total_rows": 2000,
+    "distribution": {
+      "Kuliner": 400,
+      "Perdagangan": 400,
+      "Jasa": 400,
+      "Produksi": 400,
+      "Pertanian/Peternakan": 400
+    },
+    "split": {
+      "training": 1600,
+      "validation": 200,
+      "testing": 200,
+      "training_percent": 80,
+      "validation_percent": 10,
+      "testing_percent": 10,
+      "method": "Stratified Sampling",
+      "random_state": 42
+    },
+    "metrics": {
+      "accuracy": 0.56,
+      "precision_macro": 0.560597,
+      "recall_macro": 0.56,
+      "f1_macro": 0.557486
+    },
+    "notes": "",
+    "activated_at": "2026-08-28T05:57:57+00:00"
+  },
+  {
+    "model_id": "20260828_055657_19524c",
+    "status": "candidate",
+    "created_at": "2026-08-28T05:56:57+00:00",
+    "dataset_name": "dataset_umkm_v4_3_final_training_2000.csv",
+    "total_rows": 2000,
+    "distribution": {
+      "Kuliner": 400,
+      "Perdagangan": 400,
+      "Jasa": 400,
+      "Produksi": 400,
+      "Pertanian/Peternakan": 400
+    },
+    "split": {
+      "training": 1600,
+      "validation": 200,
+      "testing": 200,
+      "training_percent": 80,
+      "validation_percent": 10,
+      "testing_percent": 10,
+      "method": "Stratified Sampling",
+      "random_state": 42
+    },
+    "metrics": {
+      "accuracy": 0.56,
+      "precision_macro": 0.560597,
+      "recall_macro": 0.56,
+      "f1_macro": 0.557486
+    },
+    "notes": ""
+  },
+  {
+    "model_id": "20260828_053356_2ff951",
+    "status": "archived",
+    "created_at": "2026-08-28T05:33:56+00:00",
+    "dataset_name": "dataset_umkm_v4_3_final_training_2000.csv",
+    "total_rows": 2000,
+    "distribution": {
+      "Kuliner": 400,
+      "Perdagangan": 400,
+      "Jasa": 400,
+      "Produksi": 400,
+      "Pertanian/Peternakan": 400
+    },
+    "split": {
+      "training": 1600,
+      "validation": 200,
+      "testing": 200,
+      "training_percent": 80,
+      "validation_percent": 10,
+      "testing_percent": 10,
+      "method": "Stratified Sampling",
+      "random_state": 42
+    },
+    "metrics": {
+      "accuracy": 0.56,
+      "precision_macro": 0.560597,
+      "recall_macro": 0.56,
+      "f1_macro": 0.557486
+    },
+    "notes": "",
+    "activated_at": "2026-08-28T05:34:09+00:00"
+  },
+  {
+    "model_id": "20260822_185407_3fab22",
+    "status": "archived",
+    "created_at": "2026-08-22T18:54:07+00:00",
+    "dataset_name": "dataset_umkm_v3_1000_mapping_modal.csv",
+    "total_rows": 1000,
+    "distribution": {
+      "Kuliner": 200,
+      "Perdagangan": 200,
+      "Jasa": 200,
+      "Produksi": 200,
+      "Pertanian/Peternakan": 200
+    },
+    "split": {
+      "training": 800,
+      "validation": 100,
+      "testing": 100,
+      "training_percent": 80,
+      "validation_percent": 10,
+      "testing_percent": 10,
+      "method": "Stratified Sampling",
+      "random_state": 42
+    },
+    "metrics": {
+      "accuracy": 0.88,
+      "precision_macro": 0.892747,
+      "recall_macro": 0.88,
+      "f1_macro": 0.879419
+    },
+    "notes": "",
+    "activated_at": "2026-08-28T05:56:38+00:00"
+  },
+  {
+    "model_id": "20260822_184441_e54f0d",
+    "status": "archived",
+    "created_at": "2026-08-22T18:44:41+00:00",
+    "dataset_name": "dataset_umkm_v3_1000_mapping_modal.csv",
+    "total_rows": 1000,
+    "distribution": {
+      "Kuliner": 200,
+      "Perdagangan": 200,
+      "Jasa": 200,
+      "Produksi": 200,
+      "Pertanian/Peternakan": 200
+    },
+    "split": {
+      "training": 800,
+      "validation": 100,
+      "testing": 100,
+      "training_percent": 80,
+      "validation_percent": 10,
+      "testing_percent": 10,
+      "method": "Stratified Sampling",
+      "random_state": 42
+    },
+    "metrics": {
+      "accuracy": 0.88,
+      "precision_macro": 0.892747,
+      "recall_macro": 0.88,
+      "f1_macro": 0.879419
+    },
+    "notes": "",
+    "activated_at": "2026-08-22T19:02:32+00:00"
+  }
+]
